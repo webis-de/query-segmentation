@@ -4,6 +4,8 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
+import com.google.common.collect.Lists;
+
 public class Segmentation {
     
     private Long id;
@@ -16,6 +18,10 @@ public class Segmentation {
         this.segments = segments;
         this.setQueryString();
     }
+    
+    public Segmentation(Long id, String[] segments) {
+       this(id, Lists.newArrayList(segments));
+    }
 
     public List<String> getSegments() {
         return segments;
@@ -25,7 +31,7 @@ public class Segmentation {
         this.segments = segments;
         this.setQueryString();
     }
-
+    
     public String getQueryString() {
         return queryString;
     }

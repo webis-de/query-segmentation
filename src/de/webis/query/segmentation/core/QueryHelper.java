@@ -18,8 +18,8 @@ public class QueryHelper {
      * @return
      */
     public static String clearQuery(String query) {
-        String queryProcessed = query.replaceAll("[^A-Za-z0-9 .-']", " ");
-        return queryProcessed.trim().replaceAll(" +", " ");
+        String queryProcessed = query.replaceAll("[^A-Za-z0-9' .-]", " ");
+        return queryProcessed.trim().replaceAll(" +", " ").toLowerCase();
     }
 
     /**
@@ -48,6 +48,10 @@ public class QueryHelper {
         for (Segmentation s : listOfSegmentations) {
             System.out.println(s.toString());
         }
+    }
+    
+    public static int getSegmentLength(String segment){
+        return segment.split(" ").length;
     }
 
 }

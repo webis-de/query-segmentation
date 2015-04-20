@@ -1,5 +1,6 @@
 package de.webis.query.segmentation.application;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import de.webis.query.segmentation.core.Query;
@@ -22,12 +23,29 @@ public class QuerySegmentation {
     }
     
     public List<Segmentation> performSegmentation(List<Query> queries){
-        return this.segmentationStrategy.performSegmentation(queries);
+        List<Segmentation> segmentations = new ArrayList<Segmentation>();
+        for (Query query : queries) {
+            segmentations.add(this.performSegmentation(query));
+        }
+        return segmentations;
+    }
+    
+    
+    public Segmentation performSegmentation(Query query){
+        return this.segmentationStrategy.performSegmentation(query);
     }
     
     public String getStrategyName() {
         return this.segmentationStrategy.getClass().getSimpleName();
     }
 
+    
+//    stein2010j-naive.txt
+//    stein2011e-wiki-based.txt
+//    stein2012q-hybrid-acc.txt                          [HYB-A im paper]
+//    stein2012q-hybrid-ir-none-stein11e.txt   [HYB-I im paper]
+//    stein2012q-hybrid-ir-none-wt.txt              [HYB-B im paper]
+//    stein2012q-wt-baseline.txt
+//    stein2012q-wt-snp-baseline.txt 
     
 }
