@@ -51,4 +51,8 @@ public class Segmentation {
     public String toString(){
         return this.id + "\t" + StringUtils.join(this.segments, "|");
     }
+    
+    public String toStringSegments(){
+        return StringUtils.join(this.segments, "|");
+    }
 }

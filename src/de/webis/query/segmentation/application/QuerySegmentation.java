@@ -3,17 +3,22 @@ package de.webis.query.segmentation.application;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.Segmentation;
 import de.webis.query.segmentation.strategies.ISegmentationStrategy;
 
 /**
+ * This is the main class of the query segmentation application.
  * 
  * @author Anna Beyer
  *
  */
 public class QuerySegmentation {
 
+    private static final Logger LOGGER = LoggerFactory.getLogger(QuerySegmentation.class);
     private ISegmentationStrategy segmentationStrategy;
 
     
@@ -25,6 +30,7 @@ public class QuerySegmentation {
     public List<Segmentation> performSegmentation(List<Query> queries){
         List<Segmentation> segmentations = new ArrayList<Segmentation>();
         for (Query query : queries) {
+            LOGGER.info("Processing query: " + query);
             segmentations.add(this.performSegmentation(query));
         }
         return segmentations;
