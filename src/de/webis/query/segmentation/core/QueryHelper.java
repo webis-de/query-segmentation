@@ -53,5 +53,16 @@ public class QueryHelper {
     public static int getSegmentLength(String segment){
         return segment.split(" ").length;
     }
+    
+    public static List<String> getSubTwoGrams(String text){
+    	
+    	
+    	
+    	
+    	List<String> twoGrams = new ArrayList<String>();
+    	int len = QueryHelper.getSegmentLength(text);
+    	// TODO
+    	return twoGrams;
+    }
 
 }

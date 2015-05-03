@@ -12,6 +12,9 @@ import de.webis.query.segmentation.core.QuerySegmentizer;
 import de.webis.query.segmentation.core.Segmentation;
 import de.webis.query.segmentation.utils.NgramHelper;
 
+/**
+ * Implementation of query segmentation strategy "naive" described in stein2010. 
+ */
 public class StrategyNaive implements ISegmentationStrategy {
 	
 	private static final Logger LOGGER = LoggerFactory.getLogger(StrategyNaive.class);
@@ -36,6 +39,12 @@ public class StrategyNaive implements ISegmentationStrategy {
 		return bestSegmentation;
 	}
 
+	/**
+	 * Computes the score of a segmentation.
+	 * 
+	 * @param segmentation
+	 * @return score
+	 */
 	private int getScore(Segmentation segmentation) {
 		int score = 0;
 		long ngramCount = 0;

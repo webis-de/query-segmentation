@@ -9,21 +9,35 @@ import org.netspeak.client.Request;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import de.aitools.ie.decomposition.Chunker;
+import de.aitools.ie.decomposition.Decomposer;
+import de.aitools.ie.decomposition.Decomposers;
+import de.webis.query.segmentation.core.QueryHelper;
+
 /**
- * This class is used to obtain n-gram counts using the Netspeak api.
+ * Helper class for getting n-gram frequencies using the Netspeak api.
  * 
- * @author Anna Beyer
- *
  */
 public class NgramHelper {
 
 	private static Logger LOGGER = LoggerFactory.getLogger(NgramHelper.class);
 
 	private static final Netspeak NETSPEAK;
+
+	private static final Decomposer DECOMPOSER = Decomposers
+			.newOpenNlpTokenizerME();
+	private static final Chunker CHUNKER = Decomposers.newTokenNgramChunker(2,
+			1);
+
 	static {
 		NETSPEAK = new Netspeak();
 	}
 
+	/**
+	 * Gets the n-gram frequency of a query.
+	 * @param query
+	 * @return n-gram frequency
+	 */
 	public static long getNgramCount(String query) {
 		long count = -1;
 
@@ -52,6 +66,27 @@ public class NgramHelper {
 			LOGGER.debug("Error while Netspeak request: " + query, e);
 		}
 		return count;
+	}
+
+	/**
+	 * Gets the highest n-gram frequency of any 2-grams of a segment
+	 * 
+	 * @param segment
+	 * @return n-gram frequency
+	 */
+	public static long getNgramCountOfSubTwoGram(String segment) {
+		long maxTwoGramCount = 0;
+		long twoGramCount = 0;
+		String[] twoGrams = CHUNKER.chunk(DECOMPOSER.toStrings(segment));
+		for (String twoGram : twoGrams) {
+			if (QueryHelper.getSegmentLength(twoGram) == 2) {
+				twoGramCount = NgramHelper.getNgramCount(twoGram);
+				if (twoGramCount > maxTwoGramCount) {
+					maxTwoGramCount = twoGramCount;
+				}
+			}
+		}
+		return maxTwoGramCount;
 	}
 
 }

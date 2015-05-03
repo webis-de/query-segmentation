@@ -7,7 +7,6 @@ import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.Segmentation;
 import de.webis.query.segmentation.strategies.StrategyNaive;
-import de.webis.query.segmentation.strategies.StrategySingleWords;
 
 public class HowToUseQuerySegmentation {
 

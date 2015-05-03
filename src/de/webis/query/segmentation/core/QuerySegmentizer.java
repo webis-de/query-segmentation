@@ -7,11 +7,16 @@ import org.apache.commons.lang3.StringUtils;
 
 import com.google.common.collect.Lists;
 
+/**
+ * Helper class for getting all possible segmentation of a query.
+ */
 public class QuerySegmentizer {
 
-    /*
-     * Get a list of all possible segmentations of a query.
-     */
+	/**
+	 * Gets a list of all possible segmentations of a query.
+	 * @param query
+	 * @return list of segmentation
+	 */
     public static List<Segmentation> getPossibleSegmentation(Query query){
         List<String> words = Lists.newArrayList(query.getQueryString().split(" "));
         int numberOfWords = words.size();
@@ -26,8 +31,11 @@ public class QuerySegmentizer {
         return segmentations;
     }
     
-    /*
-     * Generate segmentation of query from bitmask.
+    /**
+     * Generates segmentation of query from using a bitmask.
+     * @param query
+     * @param bitmask
+     * @return segmentation
      */
     private static Segmentation getSegmentationFromBitmask(Query query, String bitmask){
         String queryString = query.getQueryString();

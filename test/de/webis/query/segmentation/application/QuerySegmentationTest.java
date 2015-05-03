@@ -13,6 +13,7 @@ import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.Segmentation;
 import de.webis.query.segmentation.strategies.StrategyNaive;
+import de.webis.query.segmentation.strategies.StrategyWikiBased;
 
 public class QuerySegmentationTest {
 
@@ -47,6 +48,15 @@ public class QuerySegmentationTest {
 	@Test
 	public void testStrategyNaive2() {
 		QuerySegmentation qs = new QuerySegmentation(new StrategyNaive());
+		List<Segmentation> segmentations = qs
+				.performSegmentation(queriesTrainingSet.subList(0, 10));
+		QueryHelper.printSegmentations(segmentations);
+	}
+	
+	
+	@Test
+	public void testStrategyWikiBased2() {
+		QuerySegmentation qs = new QuerySegmentation(new StrategyWikiBased());
 		List<Segmentation> segmentations = qs
 				.performSegmentation(queriesTrainingSet.subList(0, 10));
 		QueryHelper.printSegmentations(segmentations);
