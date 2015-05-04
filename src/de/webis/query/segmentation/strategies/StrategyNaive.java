@@ -8,12 +8,13 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import de.webis.query.segmentation.core.Query;
+import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.QuerySegmentizer;
 import de.webis.query.segmentation.core.Segmentation;
 import de.webis.query.segmentation.utils.NgramHelper;
 
 /**
- * Implementation of query segmentation strategy "naive" described in stein2010. 
+ * Implementation of query segmentation strategy "naive" described in stein2010.
  */
 public class StrategyNaive implements ISegmentationStrategy {
 	
@@ -25,9 +26,9 @@ public class StrategyNaive implements ISegmentationStrategy {
 		List<Segmentation> possibleSegmentation = QuerySegmentizer
 				.getPossibleSegmentation(query);
 
-		int maxScore = -1;
-		int score = -1;
-		Segmentation bestSegmentation = null;
+		int maxScore = 0;
+		int score = 0;
+		Segmentation bestSegmentation = QueryHelper.getTrivialSegmentation(query);
 		for (Segmentation segmentation : possibleSegmentation) {
 			LOGGER.debug("Processing segmentation: " + segmentation.toStringSegments());
 			score = getScore(segmentation);

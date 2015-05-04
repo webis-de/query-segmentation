@@ -23,6 +23,8 @@ public class NgramHelper {
 	private static Logger LOGGER = LoggerFactory.getLogger(NgramHelper.class);
 
 	private static final Netspeak NETSPEAK;
+	
+	private static final long N_GRAM_FREQUENCY_MEDIAN = 3461030;
 
 	private static final Decomposer DECOMPOSER = Decomposers
 			.newOpenNlpTokenizerME();
@@ -85,6 +87,9 @@ public class NgramHelper {
 					maxTwoGramCount = twoGramCount;
 				}
 			}
+		}
+		if(maxTwoGramCount == 0){
+			maxTwoGramCount = N_GRAM_FREQUENCY_MEDIAN;
 		}
 		return maxTwoGramCount;
 	}

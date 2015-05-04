@@ -28,9 +28,10 @@ public class StrategyWikiBased implements ISegmentationStrategy {
 		List<Segmentation> possibleSegmentation = QuerySegmentizer
 				.getPossibleSegmentation(query);
 
-		int maxScore = -1;
-		int score = -1;
-		Segmentation bestSegmentation = null;
+		int maxScore = 0;
+		int score = 0;
+		Segmentation bestSegmentation = QueryHelper
+				.getTrivialSegmentation(query);
 		for (Segmentation segmentation : possibleSegmentation) {
 			LOGGER.debug("Processing segmentation: "
 					+ segmentation.toStringSegments());
@@ -60,7 +61,7 @@ public class StrategyWikiBased implements ISegmentationStrategy {
 				if (ngramCount == -1) {
 					break;
 				} else {
-					weight = getWeight(segment);
+					weight = getWeight(segment, ngramCount);
 					score += len * weight;
 				}
 			}
@@ -74,15 +75,15 @@ public class StrategyWikiBased implements ISegmentationStrategy {
 	 * @param segment
 	 * @return
 	 */
-	private long getWeight(String segment) {
+	private long getWeight(String segment, long ngramCount) {
 		long weight = 0;
 		int len = QueryHelper.getSegmentLength(segment);
 		if (WikiTitleHelper.isWikiTitle(segment)) {
 			weight = len + NgramHelper.getNgramCountOfSubTwoGram(segment);
 		} else {
-			weight = NgramHelper.getNgramCount(segment);
+			weight = ngramCount;
 		}
 		return weight;
 	}
 
-	}
+}
