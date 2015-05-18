@@ -22,7 +22,7 @@ public class NgramHelper {
 
 	private static Logger LOGGER = LoggerFactory.getLogger(NgramHelper.class);
 
-	private static final Netspeak NETSPEAK;
+	private static final Netspeak NETSPEAK = new Netspeak();
 	
 	private static final long N_GRAM_FREQUENCY_MEDIAN = 3461030;
 
@@ -30,10 +30,6 @@ public class NgramHelper {
 			.newOpenNlpTokenizerME();
 	private static final Chunker CHUNKER = Decomposers.newTokenNgramChunker(2,
 			1);
-
-	static {
-		NETSPEAK = new Netspeak();
-	}
 
 	/**
 	 * Gets the n-gram frequency of a query.

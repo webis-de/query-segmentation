@@ -7,6 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import de.webis.query.segmentation.core.Query;
+import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.Segmentation;
 import de.webis.query.segmentation.strategies.ISegmentationStrategy;
 
@@ -38,7 +39,14 @@ public class QuerySegmentation {
     
     
     public Segmentation performSegmentation(Query query){
-        return this.segmentationStrategy.performSegmentation(query);
+    	Query cleaned  = new Query(query.getId(),QueryHelper.clearQuery(query.getQueryString()));
+        Segmentation segmentation = QueryHelper.getTrivialSegmentation(cleaned);
+    	if(QueryHelper.getSegmentLength(cleaned.getQueryString()) >= 3){
+    		// perform segmentation for queries with minimum length 3
+    		segmentation = this.segmentationStrategy.performSegmentation(cleaned);
+        }
+    	
+    	return segmentation;
     }
     
     public String getStrategyName() {

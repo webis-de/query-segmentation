@@ -10,6 +10,10 @@ public class Query {
         this.id = id;
         this.queryString = QueryHelper.clearQuery(queryString);
     }
+    
+    public Query(String queryString){
+    	this(1L, queryString);
+    }
 
     public String getQueryString() {
         return queryString;
