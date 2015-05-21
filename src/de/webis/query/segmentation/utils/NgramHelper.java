@@ -1,6 +1,9 @@
 package de.webis.query.segmentation.utils;
 
 import java.io.IOException;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 
 import org.netspeak.application.ErrorCode;
 import org.netspeak.application.generated.NetspeakMessages.Response;
@@ -30,13 +33,49 @@ public class NgramHelper {
 			.newOpenNlpTokenizerME();
 	private static final Chunker CHUNKER = Decomposers.newTokenNgramChunker(2,
 			1);
+	
+	private Map<String, Long> ngramCountsCache;
+	
+	public NgramHelper(){
+		ngramCountsCache = new HashMap<String, Long>();
+	}
+	
+
+	public NgramHelper(Map<String, Long> ngramCountsCache2) {
+		this.ngramCountsCache = new HashMap<String, Long>(ngramCountsCache2);
+	}
+
+
+	public Map<String, Long> getNgramCountsCache() {
+		return ngramCountsCache;
+	}
+
+
+	public void setNgramCountsCache(Map<String, Long> ngramCountsCache) {
+		this.ngramCountsCache = ngramCountsCache;
+	}
+
 
 	/**
 	 * Gets the n-gram frequency of a query.
 	 * @param query
 	 * @return n-gram frequency
 	 */
-	public static long getNgramCount(String query) {
+	public long getNgramCount(String query) {
+		long count = -1;
+		if(ngramCountsCache.containsKey(query)){
+			count = ngramCountsCache.get(query);
+			LOGGER.info("Get ngram count for \"" + query + "\" from local ngram cache.");
+		}else{
+			count = getNgramCountFromNetspeak(query);
+			ngramCountsCache.put(query, count);
+			LOGGER.info("Get ngram count for \"" + query + "\" from Netspeak.");
+		}
+		
+		return count;
+	}
+
+	private long getNgramCountFromNetspeak(String query) {
 		long count = -1;
 
 		Request request = new Request();
@@ -72,13 +111,13 @@ public class NgramHelper {
 	 * @param segment
 	 * @return n-gram frequency
 	 */
-	public static long getNgramCountOfSubTwoGram(String segment) {
+	public long getNgramCountOfSubTwoGram(String segment) {
 		long maxTwoGramCount = 0;
 		long twoGramCount = 0;
 		String[] twoGrams = CHUNKER.chunk(DECOMPOSER.toStrings(segment));
 		for (String twoGram : twoGrams) {
 			if (QueryHelper.getSegmentLength(twoGram) == 2) {
-				twoGramCount = NgramHelper.getNgramCount(twoGram);
+				twoGramCount = this.getNgramCount(twoGram);
 				if (twoGramCount > maxTwoGramCount) {
 					maxTwoGramCount = twoGramCount;
 				}

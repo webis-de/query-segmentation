@@ -4,11 +4,15 @@ import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.Segmentation;
 
-public class StrategyNone implements ISegmentationStrategy{
+public class StrategyNone extends SegmentationStrategy {
 
-    @Override
-    public Segmentation performSegmentation(Query query) {
-        return QueryHelper.getTrivialSegmentation(query);
-    }
+	public StrategyNone() {
+		super();
+	}
+
+	@Override
+	public Segmentation performSegmentation(Query query) {
+		return QueryHelper.getTrivialSegmentation(query);
+	}
 
 }

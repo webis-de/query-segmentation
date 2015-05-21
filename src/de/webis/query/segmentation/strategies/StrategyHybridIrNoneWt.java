@@ -5,19 +5,32 @@ import org.slf4j.LoggerFactory;
 
 import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.Segmentation;
+import de.webis.query.segmentation.utils.NgramHelper;
 import de.webis.query.segmentation.utils.SnpHelper;
 
 /**
  * Implementation of query segmentation strategy "hybrid-ir-none-wt" described
  * in stein2012q as HYB-B.
  */
-public class StrategyHybridIrNoneWt implements ISegmentationStrategy {
+public class StrategyHybridIrNoneWt extends SegmentationStrategy {
 
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyHybridIrNoneWt.class);
 
-	private final StrategyNone none = new StrategyNone();
-	private final StrategyWtBaseline wtBaseline = new StrategyWtBaseline();
+	private StrategyNone none;
+	private StrategyWtBaseline wtBaseline;
+	
+	public StrategyHybridIrNoneWt() {
+		super();
+		this.none = new StrategyNone();
+		this.wtBaseline = new StrategyWtBaseline();
+	}
+	
+	public StrategyHybridIrNoneWt(NgramHelper ngramHelper) {
+		super(ngramHelper);
+		this.none = new StrategyNone();
+		this.wtBaseline = new StrategyWtBaseline(ngramHelper);
+	}
 
 	@Override
 	public Segmentation performSegmentation(Query query) {

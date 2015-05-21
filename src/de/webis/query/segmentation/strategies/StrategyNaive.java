@@ -16,10 +16,20 @@ import de.webis.query.segmentation.utils.NgramHelper;
 /**
  * Implementation of query segmentation strategy "naive" described in stein2010.
  */
-public class StrategyNaive implements ISegmentationStrategy {
-	
-	private static final Logger LOGGER = LoggerFactory.getLogger(StrategyNaive.class);
+public class StrategyNaive extends SegmentationStrategy {
 
+	private static final Logger LOGGER = LoggerFactory
+			.getLogger(StrategyNaive.class);
+
+	public StrategyNaive() {
+		super();
+	}
+	
+	public StrategyNaive(NgramHelper ngramHelper){
+		super(ngramHelper);
+	}
+	
+	
 	@Override
 	public Segmentation performSegmentation(Query query) {
 
@@ -28,9 +38,11 @@ public class StrategyNaive implements ISegmentationStrategy {
 
 		int maxScore = 0;
 		int score = 0;
-		Segmentation bestSegmentation = QueryHelper.getTrivialSegmentation(query);
+		Segmentation bestSegmentation = QueryHelper
+				.getTrivialSegmentation(query);
 		for (Segmentation segmentation : possibleSegmentation) {
-			LOGGER.debug("Processing segmentation: " + segmentation.toStringSegments());
+			LOGGER.debug("Processing segmentation: "
+					+ segmentation.toStringSegments());
 			score = getScore(segmentation);
 			if (score > maxScore) {
 				bestSegmentation = segmentation;
@@ -52,7 +64,7 @@ public class StrategyNaive implements ISegmentationStrategy {
 		for (String segment : segmentation.getSegments()) {
 			int len = getSegmentLength(segment);
 			if (len >= 2) {
-				ngramCount = NgramHelper.getNgramCount(segment);
+				ngramCount = ngramHelper.getNgramCount(segment);
 				if (ngramCount == -1) {
 					break;
 				} else {

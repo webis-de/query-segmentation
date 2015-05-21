@@ -19,10 +19,18 @@ import de.webis.query.segmentation.utils.WikiTitleHelper;
  * stein2012q.
  *
  */
-public class StrategyWtBaseline implements ISegmentationStrategy {
+public class StrategyWtBaseline extends SegmentationStrategy {
 
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyWtBaseline.class);
+
+	public StrategyWtBaseline() {
+		super();
+	}
+
+	public StrategyWtBaseline(NgramHelper ngramHelper) {
+		super(ngramHelper);
+	}
 
 	@Override
 	public Segmentation performSegmentation(Query query) {
@@ -58,7 +66,7 @@ public class StrategyWtBaseline implements ISegmentationStrategy {
 		for (String segment : segmentation.getSegments()) {
 			int len = getSegmentLength(segment);
 			if (len >= 2 && WikiTitleHelper.isWikiTitle(segment)) {
-				ngramCount = NgramHelper.getNgramCount(segment);
+				ngramCount = this.ngramHelper.getNgramCount(segment);
 				if (ngramCount == -1) {
 					break;
 				} else {
@@ -79,7 +87,7 @@ public class StrategyWtBaseline implements ISegmentationStrategy {
 	private long getWeight(String segment) {
 		long weight = 0;
 		int len = QueryHelper.getSegmentLength(segment);
-		weight = len + NgramHelper.getNgramCountOfSubTwoGram(segment);
+		weight = len + this.ngramHelper.getNgramCountOfSubTwoGram(segment);
 		return weight;
 	}
 

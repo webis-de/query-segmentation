@@ -18,10 +18,18 @@ import de.webis.query.segmentation.utils.WikiTitleHelper;
  * Implementation of query segmentation strategy "wiki-based" described in
  * stein2011e.
  */
-public class StrategyWikiBased implements ISegmentationStrategy {
+public class StrategyWikiBased extends SegmentationStrategy {
 
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyWikiBased.class);
+
+	public StrategyWikiBased() {
+		super();
+	}
+
+	public StrategyWikiBased(NgramHelper ngramHelper) {
+		super(ngramHelper);
+	}
 
 	@Override
 	public Segmentation performSegmentation(Query query) {
@@ -57,7 +65,7 @@ public class StrategyWikiBased implements ISegmentationStrategy {
 		for (String segment : segmentation.getSegments()) {
 			int len = getSegmentLength(segment);
 			if (len >= 2) {
-				ngramCount = NgramHelper.getNgramCount(segment);
+				ngramCount = this.ngramHelper.getNgramCount(segment);
 				if (ngramCount == -1) {
 					break;
 				} else {
@@ -79,7 +87,7 @@ public class StrategyWikiBased implements ISegmentationStrategy {
 		long weight = 0;
 		int len = QueryHelper.getSegmentLength(segment);
 		if (WikiTitleHelper.isWikiTitle(segment)) {
-			weight = len + NgramHelper.getNgramCountOfSubTwoGram(segment);
+			weight = len + this.ngramHelper.getNgramCountOfSubTwoGram(segment);
 		} else {
 			weight = ngramCount;
 		}

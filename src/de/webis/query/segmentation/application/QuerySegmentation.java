@@ -9,7 +9,8 @@ import org.slf4j.LoggerFactory;
 import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.Segmentation;
-import de.webis.query.segmentation.strategies.ISegmentationStrategy;
+import de.webis.query.segmentation.strategies.SegmentationStrategy;
+import de.webis.query.segmentation.utils.NgramHelper;
 
 /**
  * This is the main class of the query segmentation application.
@@ -20,10 +21,10 @@ import de.webis.query.segmentation.strategies.ISegmentationStrategy;
 public class QuerySegmentation {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(QuerySegmentation.class);
-    private ISegmentationStrategy segmentationStrategy;
+    private SegmentationStrategy segmentationStrategy;
 
     
-    public QuerySegmentation(ISegmentationStrategy segmentationAlgorithm) {
+    public QuerySegmentation(SegmentationStrategy segmentationAlgorithm) {
         super();
         this.segmentationStrategy = segmentationAlgorithm;
     }
@@ -53,6 +54,9 @@ public class QuerySegmentation {
         return this.segmentationStrategy.getClass().getSimpleName();
     }
 
+    public NgramHelper getNGramHelper(){
+    	return this.segmentationStrategy.getNgramHelper();
+    }
     
 //    stein2010j-naive.txt
 //    stein2011e-wiki-based.txt
