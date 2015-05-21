@@ -3,6 +3,7 @@ package de.webis.query.segmentation.application;
 import java.io.IOException;
 import java.util.List;
 
+import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -16,6 +17,7 @@ import de.webis.query.segmentation.strategies.StrategyNaive;
 import de.webis.query.segmentation.strategies.StrategyWikiBased;
 import de.webis.query.segmentation.strategies.StrategyWtBaseline;
 import de.webis.query.segmentation.strategies.StrategyWtSnpBaseline;
+import de.webis.query.segmentation.utils.NgramHelper;
 
 public class QuerySegmentationTest {
 
@@ -84,5 +86,45 @@ public class QuerySegmentationTest {
 		List<Segmentation> segmentations = qs
 				.performSegmentation(queriesTrainingSet);
 		QueryHelper.printSegmentations(segmentations);
+	}
+	
+	@Test
+	public void testNgramHelperForSeveralSegmentationStrategiesInSeries(){
+		
+		NgramHelper ngramHelper = new NgramHelper();
+		
+		QuerySegmentation qs1 = new QuerySegmentation(new StrategyNaive(ngramHelper));
+		qs1.performSegmentation(new Query("how to make a bed"));
+		
+		ngramHelper = qs1.getNGramHelper();
+		int numberCachedNgrams = ngramHelper.getNgramCountsCache().size();
+		Assert.assertTrue(0< numberCachedNgrams);
+		
+		QuerySegmentation qs2 = new QuerySegmentation(new StrategyWikiBased(ngramHelper));
+		qs1.performSegmentation(new Query("stainless steel chest freezers"));
+		ngramHelper = qs2.getNGramHelper();
+		int numberCachedNGrams2 = ngramHelper.getNgramCountsCache().size();
+		
+		Assert.assertTrue(0< numberCachedNGrams2);
+		Assert.assertTrue(numberCachedNgrams < numberCachedNGrams2);
+	}
+	
+	@Test
+	public void testNgramHelperForSeveralSegmentationStrategiesInSeries2(){
+	NgramHelper ngramHelper = new NgramHelper();
+	
+	QuerySegmentation qs1 = new QuerySegmentation(new StrategyNaive(ngramHelper));
+	QuerySegmentation qs2 = new QuerySegmentation(new StrategyWikiBased(ngramHelper));
+	
+	qs1.performSegmentation(new Query("how to make a bed"));
+	int count1 = ngramHelper.getNgramCountsCache().size();
+	Assert.assertTrue(0<count1);
+	
+	qs2.performSegmentation(new Query("stainless steel chest freezers"));
+	int count2 = ngramHelper.getNgramCountsCache().size();
+	
+	Assert.assertTrue(0<count2);
+	Assert.assertTrue(count1<count2);
+	
 	}
 }
