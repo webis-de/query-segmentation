@@ -12,7 +12,9 @@ import org.slf4j.LoggerFactory;
 public class WikiTitleHelper {
 
 	private static Logger LOGGER = LoggerFactory.getLogger(NgramHelper.class);
-	private static String WIKI_TITLE_FILE = "./data/wikititle-sample.txt";
+	private static final String DATA_DIR = "/media/storage1/data-in-progress/query-segmentation/data/";
+	private static final String WIKI_TITLE_FILE = DATA_DIR  +"wikititle.txt";
+	private static final String STOP_WIKI_TITLE_FILE = DATA_DIR + "stop-wikititle.txt";
 
 	private static Set<String> WIKI_TITLE;
 
@@ -20,10 +22,16 @@ public class WikiTitleHelper {
 		try {
 			WIKI_TITLE = new HashSet<String>(FileUtils.readLines(new File(
 					WIKI_TITLE_FILE)));
+			
+			Set<String> stopp_wikititle = new HashSet<String>(FileUtils.readLines(new File(
+					STOP_WIKI_TITLE_FILE)));
+			
+			WIKI_TITLE.removeAll(stopp_wikititle);
 		} catch (IOException e) {
-			LOGGER.error("Error while initializing wiki titles from: "
-					+ WIKI_TITLE_FILE);
-			WIKI_TITLE = new HashSet<String>();
+			String msg = "Failed to load wiki titles from file: "
+					+ WIKI_TITLE_FILE;
+			LOGGER.error(msg);
+			throw new RuntimeException(msg);
 		}
 	}
 
