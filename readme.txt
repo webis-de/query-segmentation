@@ -12,6 +12,11 @@ This project requires two files containing titles of wikipedia articles:
   [contains wikipedia title which will not be considered for query segmentation]
 
 
+The log files will be written to:
+- /media/storage1/data-in-progress/query-segmentation/logs/
+Please make sure that these directory exists.
+
+
 SUMMARY
 -------
 

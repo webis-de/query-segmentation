@@ -1,6 +1,5 @@
 package de.webis.query.segmentation.application;
 
-import java.io.IOException;
 import java.util.List;
 
 import org.junit.Assert;
@@ -10,9 +9,9 @@ import org.junit.Test;
 import de.webis.query.segmentation.core.Query;
 import de.webis.query.segmentation.core.QueryHelper;
 import de.webis.query.segmentation.core.Segmentation;
-import de.webis.query.segmentation.strategies.StrategyHybridAcc;
-import de.webis.query.segmentation.strategies.StrategyHybridIrNoneWikiBased;
-import de.webis.query.segmentation.strategies.StrategyHybridIrNoneWt;
+import de.webis.query.segmentation.strategies.StrategyHybridA;
+import de.webis.query.segmentation.strategies.StrategyHybridI;
+import de.webis.query.segmentation.strategies.StrategyHybridB;
 import de.webis.query.segmentation.strategies.StrategyNaive;
 import de.webis.query.segmentation.strategies.StrategyWikiBased;
 import de.webis.query.segmentation.strategies.StrategyWtBaseline;
@@ -24,9 +23,9 @@ public class QuerySegmentationTest {
 	private static List<Query> queriesTrainingSet;
 
 	@BeforeClass
-	public static void setUp() throws IOException {
-		queriesTrainingSet = QueryHelper.readQueriesFromFile(
-				"./data/webis-qsec-10-training-set-queries.txt").subList(0, 10);
+	public static void setUp() throws Exception {
+			queriesTrainingSet = QueryHelper.readQueriesFromFile(
+					"./data/webis-qsec-10-training-set-queries.txt").subList(0, 10);
 	}
 
 	@Test
@@ -64,7 +63,7 @@ public class QuerySegmentationTest {
 
 	@Test
 	public void testStrategyHybridAcc() {
-		QuerySegmentation qs = new QuerySegmentation(new StrategyHybridAcc());
+		QuerySegmentation qs = new QuerySegmentation(new StrategyHybridA());
 		List<Segmentation> segmentations = qs
 				.performSegmentation(queriesTrainingSet);
 		QueryHelper.printSegmentations(segmentations);
@@ -73,7 +72,7 @@ public class QuerySegmentationTest {
 	@Test
 	public void testStrategyHybridIrNoneWt() {
 		QuerySegmentation qs = new QuerySegmentation(
-				new StrategyHybridIrNoneWt());
+				new StrategyHybridB());
 		List<Segmentation> segmentations = qs
 				.performSegmentation(queriesTrainingSet);
 		QueryHelper.printSegmentations(segmentations);
@@ -82,7 +81,7 @@ public class QuerySegmentationTest {
 	@Test
 	public void testStrategyHybridIrNoneWikiBased() {
 		QuerySegmentation qs = new QuerySegmentation(
-				new StrategyHybridIrNoneWikiBased());
+				new StrategyHybridI());
 		List<Segmentation> segmentations = qs
 				.performSegmentation(queriesTrainingSet);
 		QueryHelper.printSegmentations(segmentations);

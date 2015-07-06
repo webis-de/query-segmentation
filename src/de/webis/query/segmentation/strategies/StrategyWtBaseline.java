@@ -24,6 +24,8 @@ public class StrategyWtBaseline extends SegmentationStrategy {
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyWtBaseline.class);
 
+	protected String identifier = "wt-baseline";
+	
 	public StrategyWtBaseline() {
 		super();
 	}
@@ -89,6 +91,12 @@ public class StrategyWtBaseline extends SegmentationStrategy {
 		int len = QueryHelper.getSegmentLength(segment);
 		weight = len + this.ngramHelper.getNgramCountOfSubTwoGram(segment);
 		return weight;
+	}
+	
+
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.WT_BASELINE;
 	}
 
 }

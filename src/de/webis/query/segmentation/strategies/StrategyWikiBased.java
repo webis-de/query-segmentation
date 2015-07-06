@@ -22,6 +22,8 @@ public class StrategyWikiBased extends SegmentationStrategy {
 
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyWikiBased.class);
+	
+	protected String identifier = "wiki-based";
 
 	public StrategyWikiBased() {
 		super();
@@ -92,6 +94,12 @@ public class StrategyWikiBased extends SegmentationStrategy {
 			weight = ngramCount;
 		}
 		return weight;
+	}
+	
+
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.WIKI_BASED;
 	}
 
 }

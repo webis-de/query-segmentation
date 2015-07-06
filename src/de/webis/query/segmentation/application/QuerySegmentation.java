@@ -32,7 +32,6 @@ public class QuerySegmentation {
     public List<Segmentation> performSegmentation(List<Query> queries){
         List<Segmentation> segmentations = new ArrayList<Segmentation>();
         for (Query query : queries) {
-            LOGGER.info("Processing query: " + query);
             segmentations.add(this.performSegmentation(query));
         }
         return segmentations;
@@ -42,6 +41,7 @@ public class QuerySegmentation {
     public Segmentation performSegmentation(Query query){
     	Query cleaned  = new Query(query.getId(),QueryHelper.clearQuery(query.getQueryString()));
         Segmentation segmentation = QueryHelper.getTrivialSegmentation(cleaned);
+        LOGGER.debug("Processing query: " + query);
     	if(QueryHelper.getSegmentLength(cleaned.getQueryString()) >= 3){
     		// perform segmentation for queries with minimum length 3
     		segmentation = this.segmentationStrategy.performSegmentation(cleaned);
@@ -51,19 +51,11 @@ public class QuerySegmentation {
     }
     
     public String getStrategyName() {
-        return this.segmentationStrategy.getClass().getSimpleName();
+        return this.segmentationStrategy.getIdentifier();
     }
 
     public NgramHelper getNGramHelper(){
     	return this.segmentationStrategy.getNgramHelper();
     }
-    
-//    stein2010j-naive.txt
-//    stein2011e-wiki-based.txt
-//    stein2012q-hybrid-acc.txt                          [HYB-A im paper]
-//    stein2012q-hybrid-ir-none-stein11e.txt   [HYB-I im paper]
-//    stein2012q-hybrid-ir-none-wt.txt              [HYB-B im paper]
-//    stein2012q-wt-baseline.txt
-//    stein2012q-wt-snp-baseline.txt 
-    
+
 }

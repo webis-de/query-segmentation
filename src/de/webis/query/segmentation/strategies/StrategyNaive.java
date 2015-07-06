@@ -21,6 +21,8 @@ public class StrategyNaive extends SegmentationStrategy {
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyNaive.class);
 
+	protected String identifier = "naive";
+	
 	public StrategyNaive() {
 		super();
 	}
@@ -73,6 +75,12 @@ public class StrategyNaive extends SegmentationStrategy {
 			}
 		}
 		return score;
+	}
+	
+
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.NAIVE;
 	}
 
 }

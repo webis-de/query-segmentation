@@ -6,6 +6,8 @@ import de.webis.query.segmentation.core.Segmentation;
 
 public class StrategyNone extends SegmentationStrategy {
 
+	protected String identifier = "none";
+	
 	public StrategyNone() {
 		super();
 	}
@@ -15,4 +17,10 @@ public class StrategyNone extends SegmentationStrategy {
 		return QueryHelper.getTrivialSegmentation(query);
 	}
 
+
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.NONE;
+	}
+	
 }

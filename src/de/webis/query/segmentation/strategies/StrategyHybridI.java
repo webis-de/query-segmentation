@@ -12,21 +12,23 @@ import de.webis.query.segmentation.utils.SnpHelper;
  * Implementation of query segmentation strategy "hybrid-ir-none-stein11e" described
  * in stein2012q as HYB-I.
  */
-public class StrategyHybridIrNoneWikiBased extends SegmentationStrategy {
+public class StrategyHybridI extends SegmentationStrategy {
 
 	private static final Logger LOGGER = LoggerFactory
-			.getLogger(StrategyHybridIrNoneWikiBased.class);
+			.getLogger(StrategyHybridI.class);
 
+	protected String identifier = "hyb-i";
+	
 	private final StrategyNone none;
 	private final StrategyWikiBased wikiBased;
 
-	public StrategyHybridIrNoneWikiBased() {
+	public StrategyHybridI() {
 		super();
 		this.none = new StrategyNone();
 		this.wikiBased = new StrategyWikiBased();
 	}
 	
-	public StrategyHybridIrNoneWikiBased(NgramHelper ngramHelper){
+	public StrategyHybridI(NgramHelper ngramHelper){
 		super(ngramHelper);
 		this.none = new StrategyNone();
 		this.wikiBased = new StrategyWikiBased(ngramHelper);
@@ -46,6 +48,12 @@ public class StrategyHybridIrNoneWikiBased extends SegmentationStrategy {
 		}
 
 		return segmentation;
+	}
+	
+
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.HYB_I;
 	}
 
 }

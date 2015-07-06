@@ -20,6 +20,7 @@ public class WikiTitleHelper {
 
 	static {
 		try {
+			LOGGER.info("Load wiki titles from file: " + WIKI_TITLE_FILE);
 			WIKI_TITLE = new HashSet<String>(FileUtils.readLines(new File(
 					WIKI_TITLE_FILE)));
 			

@@ -65,11 +65,11 @@ public class NgramHelper {
 		long count = -1;
 		if(ngramCountsCache.containsKey(query)){
 			count = ngramCountsCache.get(query);
-			LOGGER.info("Get ngram count for \"" + query + "\" from local ngram cache.");
+			LOGGER.debug("Get ngram count for \"" + query + "\" from local ngram cache.");
 		}else{
 			count = getNgramCountFromNetspeak(query);
 			ngramCountsCache.put(query, count);
-			LOGGER.info("Get ngram count for \"" + query + "\" from Netspeak.");
+			LOGGER.debug("Get ngram count for \"" + query + "\" from Netspeak.");
 		}
 		
 		return count;

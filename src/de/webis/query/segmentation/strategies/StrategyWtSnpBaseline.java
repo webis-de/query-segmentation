@@ -25,6 +25,8 @@ public class StrategyWtSnpBaseline extends SegmentationStrategy {
 	private static final Logger LOGGER = LoggerFactory
 			.getLogger(StrategyWtSnpBaseline.class);
 
+	protected String identifier = "wt-snp-baseline";
+	
 	public StrategyWtSnpBaseline() {
 		super();
 	}
@@ -93,6 +95,12 @@ public class StrategyWtSnpBaseline extends SegmentationStrategy {
 		int len = QueryHelper.getSegmentLength(segment);
 		weight = len + this.ngramHelper.getNgramCountOfSubTwoGram(segment);
 		return weight;
+	}
+	
+
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.WT_SNP_BASELINE;
 	}
 
 }

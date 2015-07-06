@@ -9,26 +9,26 @@ import de.webis.query.segmentation.utils.NgramHelper;
 import de.webis.query.segmentation.utils.SnpHelper;
 
 /**
- * Implementation of query segmentation strategy "hybrid-ir-none-wt" described
- * in stein2012q as HYB-B.
+ * Implementation of query segmentation strategy "hybrid-acc" described in
+ * stein2012q as HYB-A.
  */
-public class StrategyHybridIrNoneWt extends SegmentationStrategy {
+public class StrategyHybridA extends SegmentationStrategy {
 
 	private static final Logger LOGGER = LoggerFactory
-			.getLogger(StrategyHybridIrNoneWt.class);
-
-	private StrategyNone none;
-	private StrategyWtBaseline wtBaseline;
+			.getLogger(StrategyHybridA.class);
 	
-	public StrategyHybridIrNoneWt() {
+	private StrategyWikiBased wikiBased;
+	private StrategyWtBaseline wtBaseline;
+
+	public StrategyHybridA() {
 		super();
-		this.none = new StrategyNone();
+		this.wikiBased = new StrategyWikiBased();
 		this.wtBaseline = new StrategyWtBaseline();
 	}
-	
-	public StrategyHybridIrNoneWt(NgramHelper ngramHelper) {
+
+	public StrategyHybridA(NgramHelper ngramHelper) {
 		super(ngramHelper);
-		this.none = new StrategyNone();
+		this.wikiBased = new StrategyWikiBased(ngramHelper);
 		this.wtBaseline = new StrategyWtBaseline(ngramHelper);
 	}
 
@@ -38,13 +38,16 @@ public class StrategyHybridIrNoneWt extends SegmentationStrategy {
 
 		if (SnpHelper.isSnp(query.getQueryString())) {
 			LOGGER.debug("Processing SNP query: " + query.getQueryString());
-			segmentation = none.performSegmentation(query);
+			segmentation = wikiBased.performSegmentation(query);
 		} else {
 			segmentation = wtBaseline.performSegmentation(query);
 			LOGGER.debug("Processing non SNP query: " + query.getQueryString());
 		}
-
 		return segmentation;
 	}
 
+	@Override
+	public String getIdentifier() {
+		return StrategyIdentifiers.HYB_A;
+	}
 }
