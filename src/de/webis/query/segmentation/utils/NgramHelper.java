@@ -25,7 +25,8 @@ public class NgramHelper {
 
 	private static Logger LOGGER = LoggerFactory.getLogger(NgramHelper.class);
 
-	private static final Netspeak NETSPEAK = new Netspeak();
+	private static final Netspeak NETSPEAK =
+	    new Netspeak("https://api.netspeak.org/netspeak3/search?");
 	
 	private static final long N_GRAM_FREQUENCY_MEDIAN = 3461030;
 
