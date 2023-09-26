@@ -1,0 +1,31 @@
+# docker build -t webis/query-segmentation:application-1.0-dev -f Dockerfile.dev .
+FROM webis/query-segmentation:1.0.6 as dependencies
+
+# Extract dependencies to /maven-dependencies
+RUN jar -xf /usr/local/tomcat/webapps/query-segmentation-server.war
+
+RUN mkdir /maven-dependencies/ \
+	&& mv WEB-INF/lib/thirdparty-apache-opennlp-1.5.3.jar /maven-dependencies/ \
+	&& mv WEB-INF/lib/aitools3-ie-decomposition3.jar /maven-dependencies/ \
+	&& mv WEB-INF/lib/aitools3-aq-check.jar /maven-dependencies/ \
+	&& mv WEB-INF/lib/aitools3-ie-postagging.jar /maven-dependencies/
+
+FROM webis/netspeak:java-client-1.0-dev
+
+COPY --from=dependencies /maven-dependencies/thirdparty-apache-opennlp-1.5.3.jar /maven-dependencies/
+COPY --from=dependencies /maven-dependencies/aitools3-ie-decomposition3.jar /maven-dependencies/
+COPY --from=dependencies /maven-dependencies/aitools3-aq-check.jar /maven-dependencies/
+COPY --from=dependencies /maven-dependencies/aitools3-ie-postagging.jar /maven-dependencies/
+COPY --from=dependencies /media/storage1/data-in-progress/query-segmentation/ /media/storage1/data-in-progress/query-segmentation/
+
+ADD lib/netspeak-client-1.0.jar /maven-dependencies/netspeak-client-1.0.jar
+ADD lib/netspeak-client-1.3.5.jar /maven-dependencies/netspeak-client-1.3.5.jar
+
+ADD pom.xml /tmp-delete-me/pom.xml
+
+RUN cd /tmp-delete-me \
+	&& mvn clean install \
+	&& mvn clean install \
+	&& mvn clean install \
+	&& rm -R /tmp-delete-me
+
