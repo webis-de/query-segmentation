@@ -1,0 +1,350 @@
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"wt-snp-baseline","segmentation":["map of","the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"wt-snp-baseline","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"wt-snp-baseline","segmentation":["alexian brothers hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"wt-snp-baseline","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"wt-snp-baseline","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"wt-snp-baseline","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"wt-snp-baseline","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"wt-snp-baseline","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"wt-snp-baseline","segmentation":["gmat prep classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"wt-snp-baseline","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"wt-snp-baseline","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"wt-snp-baseline","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"wt-snp-baseline","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"wt-snp-baseline","segmentation":["arizona game","and fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"wt-snp-baseline","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"wt-snp-baseline","segmentation":["wedding budget calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"wt-snp-baseline","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"wt-snp-baseline","segmentation":["obama","family tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"wt-snp-baseline","segmentation":["french lick resort","and casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"wt-snp-baseline","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"wt-snp-baseline","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"wt-snp-baseline","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"wt-snp-baseline","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"wt-snp-baseline","segmentation":["air travel information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"wt-snp-baseline","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"wt-snp-baseline","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"wt-snp-baseline","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"wt-snp-baseline","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"wt-snp-baseline","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"wt-snp-baseline","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"wt-snp-baseline","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"wt-snp-baseline","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"wt-snp-baseline","segmentation":["lower heart rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"wt-snp-baseline","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"wt-snp-baseline","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"wt-snp-baseline","segmentation":["ps 2 games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"wt-snp-baseline","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"wt-snp-baseline","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"wt-snp-baseline","segmentation":["website design hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"wt-snp-baseline","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"wt-snp-baseline","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"wt-snp-baseline","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"wt-snp-baseline","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"wt-snp-baseline","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"wt-snp-baseline","segmentation":["dogs","for","adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"wt-snp-baseline","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"wt-snp-baseline","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"wt-snp-baseline","segmentation":["orange county convention center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"wt-snp-baseline","segmentation":["the music man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"wt-snp-baseline","segmentation":["the secret garden"]}
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"hyb-b","segmentation":["map of","the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"hyb-b","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"hyb-b","segmentation":["alexian","brothers","hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"hyb-b","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"hyb-b","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"hyb-b","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"hyb-b","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"hyb-b","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"hyb-b","segmentation":["gmat","prep","classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"hyb-b","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"hyb-b","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"hyb-b","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"hyb-b","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"hyb-b","segmentation":["arizona","game","and","fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"hyb-b","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"hyb-b","segmentation":["wedding","budget","calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"hyb-b","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"hyb-b","segmentation":["obama","family","tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"hyb-b","segmentation":["french lick","resort and casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"hyb-b","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"hyb-b","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"hyb-b","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"hyb-b","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"hyb-b","segmentation":["air","travel","information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"hyb-b","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"hyb-b","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"hyb-b","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"hyb-b","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"hyb-b","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"hyb-b","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"hyb-b","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"hyb-b","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"hyb-b","segmentation":["lower","heart","rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"hyb-b","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"hyb-b","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"hyb-b","segmentation":["ps","2","games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"hyb-b","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"hyb-b","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"hyb-b","segmentation":["website","design","hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"hyb-b","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"hyb-b","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"hyb-b","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"hyb-b","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"hyb-b","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"hyb-b","segmentation":["dogs","for","adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"hyb-b","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"hyb-b","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"hyb-b","segmentation":["orange","county","convention","center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"hyb-b","segmentation":["the","music","man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"hyb-b","segmentation":["the","secret","garden"]}
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"hyb-a","segmentation":["map of","the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"hyb-a","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"hyb-a","segmentation":["alexian brothers","hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"hyb-a","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"hyb-a","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"hyb-a","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"hyb-a","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"hyb-a","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"hyb-a","segmentation":["gmat prep","classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"hyb-a","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"hyb-a","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"hyb-a","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"hyb-a","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"hyb-a","segmentation":["arizona","game","and","fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"hyb-a","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"hyb-a","segmentation":["wedding","budget calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"hyb-a","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"hyb-a","segmentation":["obama","family tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"hyb-a","segmentation":["french lick","resort and casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"hyb-a","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"hyb-a","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"hyb-a","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"hyb-a","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"hyb-a","segmentation":["air","travel information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"hyb-a","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"hyb-a","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"hyb-a","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"hyb-a","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"hyb-a","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"hyb-a","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"hyb-a","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"hyb-a","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"hyb-a","segmentation":["lower","heart rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"hyb-a","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"hyb-a","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"hyb-a","segmentation":["ps","2 games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"hyb-a","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"hyb-a","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"hyb-a","segmentation":["website design","hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"hyb-a","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"hyb-a","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"hyb-a","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"hyb-a","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"hyb-a","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"hyb-a","segmentation":["dogs","for","adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"hyb-a","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"hyb-a","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"hyb-a","segmentation":["orange county convention center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"hyb-a","segmentation":["the music man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"hyb-a","segmentation":["the secret garden"]}
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"wiki-based","segmentation":["map of","the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"wiki-based","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"wiki-based","segmentation":["alexian brothers","hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"wiki-based","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"wiki-based","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"wiki-based","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"wiki-based","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"wiki-based","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"wiki-based","segmentation":["gmat prep","classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"wiki-based","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"wiki-based","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"wiki-based","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"wiki-based","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"wiki-based","segmentation":["arizona","game and","fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"wiki-based","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"wiki-based","segmentation":["wedding","budget calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"wiki-based","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"wiki-based","segmentation":["obama","family tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"wiki-based","segmentation":["french lick","resort and","casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"wiki-based","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"wiki-based","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"wiki-based","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"wiki-based","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"wiki-based","segmentation":["air","travel information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"wiki-based","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"wiki-based","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"wiki-based","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"wiki-based","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"wiki-based","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"wiki-based","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"wiki-based","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"wiki-based","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"wiki-based","segmentation":["lower","heart rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"wiki-based","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"wiki-based","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"wiki-based","segmentation":["ps","2 games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"wiki-based","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"wiki-based","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"wiki-based","segmentation":["website design","hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"wiki-based","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"wiki-based","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"wiki-based","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"wiki-based","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"wiki-based","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"wiki-based","segmentation":["dogs","for adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"wiki-based","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"wiki-based","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"wiki-based","segmentation":["orange county convention center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"wiki-based","segmentation":["the music man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"wiki-based","segmentation":["the secret garden"]}
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"wt-baseline","segmentation":["map of","the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"wt-baseline","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"wt-baseline","segmentation":["alexian brothers","hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"wt-baseline","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"wt-baseline","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"wt-baseline","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"wt-baseline","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"wt-baseline","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"wt-baseline","segmentation":["gmat","prep","classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"wt-baseline","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"wt-baseline","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"wt-baseline","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"wt-baseline","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"wt-baseline","segmentation":["arizona","game","and","fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"wt-baseline","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"wt-baseline","segmentation":["wedding","budget","calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"wt-baseline","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"wt-baseline","segmentation":["obama","family tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"wt-baseline","segmentation":["french lick","resort and casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"wt-baseline","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"wt-baseline","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"wt-baseline","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"wt-baseline","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"wt-baseline","segmentation":["air travel","information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"wt-baseline","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"wt-baseline","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"wt-baseline","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"wt-baseline","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"wt-baseline","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"wt-baseline","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"wt-baseline","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"wt-baseline","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"wt-baseline","segmentation":["lower","heart rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"wt-baseline","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"wt-baseline","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"wt-baseline","segmentation":["ps 2","games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"wt-baseline","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"wt-baseline","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"wt-baseline","segmentation":["website design","hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"wt-baseline","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"wt-baseline","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"wt-baseline","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"wt-baseline","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"wt-baseline","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"wt-baseline","segmentation":["dogs","for","adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"wt-baseline","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"wt-baseline","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"wt-baseline","segmentation":["orange county convention center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"wt-baseline","segmentation":["the music man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"wt-baseline","segmentation":["the secret garden"]}
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"naive","segmentation":["map","of the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"naive","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"naive","segmentation":["alexian brothers hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"naive","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"naive","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"naive","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"naive","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"naive","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"naive","segmentation":["gmat prep","classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"naive","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"naive","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"naive","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"naive","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"naive","segmentation":["arizona","game and","fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"naive","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"naive","segmentation":["wedding","budget calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"naive","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"naive","segmentation":["obama","family tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"naive","segmentation":["french lick","resort and","casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"naive","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"naive","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"naive","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"naive","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"naive","segmentation":["air","travel information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"naive","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"naive","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"naive","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"naive","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"naive","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"naive","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"naive","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"naive","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"naive","segmentation":["lower","heart rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"naive","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"naive","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"naive","segmentation":["ps","2 games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"naive","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"naive","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"naive","segmentation":["website design","hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"naive","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"naive","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"naive","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"naive","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"naive","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"naive","segmentation":["dogs","for adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"naive","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"naive","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"naive","segmentation":["orange county","convention center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"naive","segmentation":["the music","man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"naive","segmentation":["the secret","garden"]}
+{"qid":"44","originalQuery":"map of the united states","segmentationApproach":"hyb-i","segmentation":["map of","the united states"]}
+{"qid":"45","originalQuery":"solar panels","segmentationApproach":"hyb-i","segmentation":["solar","panels"]}
+{"qid":"46","originalQuery":"alexian brothers hospital","segmentationApproach":"hyb-i","segmentation":["alexian","brothers","hospital"]}
+{"qid":"47","originalQuery":"indexed annuity","segmentationApproach":"hyb-i","segmentation":["indexed","annuity"]}
+{"qid":"48","originalQuery":"wilson antenna","segmentationApproach":"hyb-i","segmentation":["wilson","antenna"]}
+{"qid":"49","originalQuery":"flame designs","segmentationApproach":"hyb-i","segmentation":["flame","designs"]}
+{"qid":"50","originalQuery":"dog heat","segmentationApproach":"hyb-i","segmentation":["dog","heat"]}
+{"qid":"10","originalQuery":"cheap internet","segmentationApproach":"hyb-i","segmentation":["cheap","internet"]}
+{"qid":"11","originalQuery":"gmat prep classes","segmentationApproach":"hyb-i","segmentation":["gmat","prep","classes"]}
+{"qid":"12","originalQuery":"djs","segmentationApproach":"hyb-i","segmentation":["djs"]}
+{"qid":"13","originalQuery":"map","segmentationApproach":"hyb-i","segmentation":["map"]}
+{"qid":"14","originalQuery":"dinosaurs","segmentationApproach":"hyb-i","segmentation":["dinosaurs"]}
+{"qid":"15","originalQuery":"espn sports","segmentationApproach":"hyb-i","segmentation":["espn","sports"]}
+{"qid":"16","originalQuery":"arizona game and fish","segmentationApproach":"hyb-i","segmentation":["arizona","game and","fish"]}
+{"qid":"17","originalQuery":"poker tournaments","segmentationApproach":"hyb-i","segmentation":["poker","tournaments"]}
+{"qid":"18","originalQuery":"wedding budget calculator","segmentationApproach":"hyb-i","segmentation":["wedding","budget","calculator"]}
+{"qid":"19","originalQuery":"the current","segmentationApproach":"hyb-i","segmentation":["the","current"]}
+{"qid":"1","originalQuery":"obama family tree","segmentationApproach":"hyb-i","segmentation":["obama","family","tree"]}
+{"qid":"2","originalQuery":"french lick resort and casino","segmentationApproach":"hyb-i","segmentation":["french lick","resort and","casino"]}
+{"qid":"3","originalQuery":"getting organized","segmentationApproach":"hyb-i","segmentation":["getting","organized"]}
+{"qid":"4","originalQuery":"toilet","segmentationApproach":"hyb-i","segmentation":["toilet"]}
+{"qid":"5","originalQuery":"mitchell college","segmentationApproach":"hyb-i","segmentation":["mitchell","college"]}
+{"qid":"6","originalQuery":"kcs","segmentationApproach":"hyb-i","segmentation":["kcs"]}
+{"qid":"7","originalQuery":"air travel information","segmentationApproach":"hyb-i","segmentation":["air","travel","information"]}
+{"qid":"8","originalQuery":"appraisals","segmentationApproach":"hyb-i","segmentation":["appraisals"]}
+{"qid":"9","originalQuery":"used car parts","segmentationApproach":"hyb-i","segmentation":["used car","parts"]}
+{"qid":"20","originalQuery":"defender","segmentationApproach":"hyb-i","segmentation":["defender"]}
+{"qid":"21","originalQuery":"volvo","segmentationApproach":"hyb-i","segmentation":["volvo"]}
+{"qid":"22","originalQuery":"rick warren","segmentationApproach":"hyb-i","segmentation":["rick","warren"]}
+{"qid":"23","originalQuery":"yahoo","segmentationApproach":"hyb-i","segmentation":["yahoo"]}
+{"qid":"24","originalQuery":"diversity","segmentationApproach":"hyb-i","segmentation":["diversity"]}
+{"qid":"25","originalQuery":"euclid","segmentationApproach":"hyb-i","segmentation":["euclid"]}
+{"qid":"26","originalQuery":"lower heart rate","segmentationApproach":"hyb-i","segmentation":["lower","heart","rate"]}
+{"qid":"27","originalQuery":"starbucks","segmentationApproach":"hyb-i","segmentation":["starbucks"]}
+{"qid":"28","originalQuery":"inuyasha","segmentationApproach":"hyb-i","segmentation":["inuyasha"]}
+{"qid":"29","originalQuery":"ps 2 games","segmentationApproach":"hyb-i","segmentation":["ps","2","games"]}
+{"qid":"30","originalQuery":"diabetes education","segmentationApproach":"hyb-i","segmentation":["diabetes","education"]}
+{"qid":"31","originalQuery":"atari","segmentationApproach":"hyb-i","segmentation":["atari"]}
+{"qid":"32","originalQuery":"website design hosting","segmentationApproach":"hyb-i","segmentation":["website","design","hosting"]}
+{"qid":"33","originalQuery":"elliptical trainer","segmentationApproach":"hyb-i","segmentation":["elliptical","trainer"]}
+{"qid":"34","originalQuery":"cell phones","segmentationApproach":"hyb-i","segmentation":["cell","phones"]}
+{"qid":"35","originalQuery":"hoboken","segmentationApproach":"hyb-i","segmentation":["hoboken"]}
+{"qid":"36","originalQuery":"gps","segmentationApproach":"hyb-i","segmentation":["gps"]}
+{"qid":"37","originalQuery":"pampered chef","segmentationApproach":"hyb-i","segmentation":["pampered","chef"]}
+{"qid":"38","originalQuery":"dogs for adoption","segmentationApproach":"hyb-i","segmentation":["dogs","for adoption"]}
+{"qid":"39","originalQuery":"disneyland hotel","segmentationApproach":"hyb-i","segmentation":["disneyland","hotel"]}
+{"qid":"40","originalQuery":"michworks","segmentationApproach":"hyb-i","segmentation":["michworks"]}
+{"qid":"41","originalQuery":"orange county convention center","segmentationApproach":"hyb-i","segmentation":["orange","county","convention","center"]}
+{"qid":"42","originalQuery":"the music man","segmentationApproach":"hyb-i","segmentation":["the","music","man"]}
+{"qid":"43","originalQuery":"the secret garden","segmentationApproach":"hyb-i","segmentation":["the","secret","garden"]}
