@@ -1,0 +1,9 @@
+{
+  "image": "webis/query-segmentation:application-1.0-dev",
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
+
