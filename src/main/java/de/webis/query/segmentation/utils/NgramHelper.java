@@ -1,10 +1,15 @@
 package de.webis.query.segmentation.utils;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
+import org.netspeak.NetspeakClient;
+import org.netspeak.SearchResults;
+import org.netspeak.SearchResults.Phrase;
 import org.netspeak.application.ErrorCode;
 import org.netspeak.application.generated.NetspeakMessages.Response;
 import org.netspeak.client.Netspeak;
@@ -25,8 +30,7 @@ public class NgramHelper {
 
 	private static Logger LOGGER = LoggerFactory.getLogger(NgramHelper.class);
 
-	private static final Netspeak NETSPEAK =
-	    new Netspeak("https://api.netspeak.org/netspeak3/search?");
+	private NetspeakClient client = new NetspeakClient(new File("/maven-dependencies/netspeak-client"));
 	
 	private static final long N_GRAM_FREQUENCY_MEDIAN = 3461030;
 
@@ -76,34 +80,19 @@ public class NgramHelper {
 		return count;
 	}
 
-	private long getNgramCountFromNetspeak(String query) {
-		long count = -1;
-
-		Request request = new Request();
-		request.put(Request.QUERY, query);
-
-		LOGGER.debug("Netspeak request: " + query);
-
+	public synchronized long getNgramCountFromNetspeak(String query) {
 		try {
-			Response response = NETSPEAK.search(request);
+			SearchResults results = client.search(query);
 
-			ErrorCode errorCode = ErrorCode.cast(response.getErrorCode());
-			if (errorCode != ErrorCode.NO_ERROR) {
-				System.err.println("Error code: " + errorCode);
-				System.err.println("Error message: "
-						+ response.getErrorMessage());
-				LOGGER.debug("Error while Netspeak request: " + query);
-			}
-
-			if (response.getPhraseCount() > 0) {
-				count = response.getPhrase(0).getFrequency();
+			if (results.getPhrases() != null && results.getPhrases().size() > 0) {
+				return results.getPhrases().get(0).getFrequency();
 			} else {
 				LOGGER.debug("Netspeak request: " + query + " ---> not in");
+				return -1;
 			}
-		} catch (IOException e) {
-			LOGGER.debug("Error while Netspeak request: " + query, e);
+		} catch (Exception e) {
+			throw new RuntimeException(e);
 		}
-		return count;
 	}
 
 	/**
