@@ -1,5 +1,5 @@
-QUERY SEGMENTATION
-==================
+# QUERY SEGMENTATION
+====================
 
 This project uses a development container.
 See the documentation of your IDE to check how you can use a dev container, e.g., https://code.visualstudio.com/docs/devcontainers/containers
@@ -8,14 +8,17 @@ To run a query segmentation with the existing docker image, please install tira 
 
 ```
 ./run-query-segmentation-in-tira.sh robust04/disks45-nocr-trec-robust-2004-20230209-training
+./run-query-segmentation-in-tira.sh clueweb09-2009/clueweb09-en-trec-web-2009-20230107-training
 ```
+
+
 
 To build the project in a docker image, please run:
 
 docker build -t webis/query-segmentation:application-1.0 .
 
-SUMMARY
--------
+## SUMMARY
+----------
 
 The following query segmentation approaches are implemented:
 
@@ -27,8 +30,8 @@ The following query segmentation approaches are implemented:
 - stein2012q-wt-baseline.txt
 - stein2012q-wt-snp-baseline.txt 
 
-QUERY SEGMENTATION (Legacy)
-===========================
+## QUERY SEGMENTATION (Legacy)
+==============================
 
 CONFIGURATION
 -------------
