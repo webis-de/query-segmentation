@@ -24,6 +24,17 @@ public class EndToEndTest {
     }
 
     @Test
+    public void testWithoutCache2() throws Exception {
+        List<String> expected = Arrays.asList(
+            "{\"qid\":\"q062213307\",\"originalQuery\":\"leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg leg\",\"segmentationApproach\":\"hyb-a\",\"segmentation\":[\"leg leg\",\"leg leg\",\"leg\"]}", 
+            "{\"qid\":\"52\",\"originalQuery\":\"solar panel self-consumption\",\"segmentationApproach\":\"hyb-a\",\"segmentation\":[\"solar panel\",\"self-consumption\"]}");
+        
+        List<String> actual = runSegmentation("hyb-a", "src/test/resources/longeval-input-without-cache");
+
+        Assert.assertEquals(expected, actual);
+    }
+
+    @Test
     public void testWithCache() throws Exception {
         List<String> expected = Arrays.asList(
             "{\"qid\":\"55\",\"originalQuery\":\"iron\",\"segmentationApproach\":\"hyb-a\",\"segmentation\":[\"iron\"]}", 

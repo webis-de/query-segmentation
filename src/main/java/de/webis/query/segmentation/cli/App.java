@@ -6,9 +6,11 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -75,7 +77,7 @@ public class App {
                 i.put("qid", qidToQuery.getKey());
                 i.put("originalQuery", qidToQuery.getValue());
                 i.put("segmentationApproach", querySegmentation.getStrategyName());
-                Segmentation s = querySegmentation.performSegmentation(new Query(qidToQuery.getValue()));
+                Segmentation s = querySegmentation.performSegmentation(new Query(collapseQuery(qidToQuery.getValue())));
                 i.put("segmentation", s.getSegments());
 
                 try {
@@ -91,6 +93,24 @@ public class App {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
+    }
+
+    private static String collapseQuery(String query) {
+        Map<String, Integer> coveredTerms = new HashMap<>();
+        String ret = "";
+
+        for (String term: query.split("\\s")) {
+            if (!coveredTerms.containsKey(term)) {
+                coveredTerms.put(term, 0);
+            }
+
+            if (coveredTerms.get(term) < 5) {
+                ret += " " + term;
+                coveredTerms.put(term, 1 + coveredTerms.get(term));
+            }
+        }
+
+        return ret.trim();
     }
 
     static Map<String, QuerySegmentation> querySegmentations(NgramHelper ngramHelper) {
