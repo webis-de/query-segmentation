@@ -1,0 +1,350 @@
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"wt-snp-baseline","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"wt-snp-baseline","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"wt-snp-baseline","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"wt-snp-baseline","segmentation":["er tv show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"wt-snp-baseline","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"wt-snp-baseline","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"wt-snp-baseline","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"wt-snp-baseline","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"wt-snp-baseline","segmentation":["earn","money","at","home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"wt-snp-baseline","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"wt-snp-baseline","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"wt-snp-baseline","segmentation":["discovery channel store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"wt-snp-baseline","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"wt-snp-baseline","segmentation":["president of","the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"wt-snp-baseline","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"wt-snp-baseline","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"wt-snp-baseline","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"wt-snp-baseline","segmentation":["uss yorktown","charleston sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"wt-snp-baseline","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"wt-snp-baseline","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"wt-snp-baseline","segmentation":["how to build","a fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"wt-snp-baseline","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"wt-snp-baseline","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"wt-snp-baseline","segmentation":["texas border patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"wt-snp-baseline","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"wt-snp-baseline","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"wt-snp-baseline","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"wt-snp-baseline","segmentation":["income tax return","online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"wt-snp-baseline","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"wt-snp-baseline","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"wt-snp-baseline","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"wt-snp-baseline","segmentation":["to be or","not to","be that is","the question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"wt-snp-baseline","segmentation":["living","in","india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"wt-snp-baseline","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"wt-snp-baseline","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"wt-snp-baseline","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"wt-snp-baseline","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"wt-snp-baseline","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"wt-snp-baseline","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"wt-snp-baseline","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"wt-snp-baseline","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"wt-snp-baseline","segmentation":["rincon puerto rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"wt-snp-baseline","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"wt-snp-baseline","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"wt-snp-baseline","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"wt-snp-baseline","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"wt-snp-baseline","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"wt-snp-baseline","segmentation":["milwaukee journal sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"wt-snp-baseline","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"wt-snp-baseline","segmentation":["who","invented","music"]}
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"hyb-b","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"hyb-b","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"hyb-b","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"hyb-b","segmentation":["er","tv","show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"hyb-b","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"hyb-b","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"hyb-b","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"hyb-b","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"hyb-b","segmentation":["earn","money","at","home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"hyb-b","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"hyb-b","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"hyb-b","segmentation":["discovery","channel","store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"hyb-b","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"hyb-b","segmentation":["president of","the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"hyb-b","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"hyb-b","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"hyb-b","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"hyb-b","segmentation":["uss","yorktown","charleston","sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"hyb-b","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"hyb-b","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"hyb-b","segmentation":["how","to","build","a","fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"hyb-b","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"hyb-b","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"hyb-b","segmentation":["texas","border","patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"hyb-b","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"hyb-b","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"hyb-b","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"hyb-b","segmentation":["income tax","return online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"hyb-b","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"hyb-b","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"hyb-b","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"hyb-b","segmentation":["to be or","not to","be that is","the question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"hyb-b","segmentation":["living","in","india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"hyb-b","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"hyb-b","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"hyb-b","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"hyb-b","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"hyb-b","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"hyb-b","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"hyb-b","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"hyb-b","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"hyb-b","segmentation":["rincon","puerto","rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"hyb-b","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"hyb-b","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"hyb-b","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"hyb-b","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"hyb-b","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"hyb-b","segmentation":["milwaukee","journal","sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"hyb-b","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"hyb-b","segmentation":["who","invented","music"]}
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"hyb-a","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"hyb-a","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"hyb-a","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"hyb-a","segmentation":["er","tv show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"hyb-a","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"hyb-a","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"hyb-a","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"hyb-a","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"hyb-a","segmentation":["earn","money","at","home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"hyb-a","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"hyb-a","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"hyb-a","segmentation":["discovery channel","store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"hyb-a","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"hyb-a","segmentation":["president of","the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"hyb-a","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"hyb-a","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"hyb-a","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"hyb-a","segmentation":["uss yorktown","charleston sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"hyb-a","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"hyb-a","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"hyb-a","segmentation":["how","to","build","a","fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"hyb-a","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"hyb-a","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"hyb-a","segmentation":["texas","border patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"hyb-a","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"hyb-a","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"hyb-a","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"hyb-a","segmentation":["income tax","return online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"hyb-a","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"hyb-a","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"hyb-a","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"hyb-a","segmentation":["to be or","not to","be that is","the question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"hyb-a","segmentation":["living","in","india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"hyb-a","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"hyb-a","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"hyb-a","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"hyb-a","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"hyb-a","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"hyb-a","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"hyb-a","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"hyb-a","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"hyb-a","segmentation":["rincon puerto rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"hyb-a","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"hyb-a","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"hyb-a","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"hyb-a","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"hyb-a","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"hyb-a","segmentation":["milwaukee journal sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"hyb-a","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"hyb-a","segmentation":["who","invented","music"]}
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"wiki-based","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"wiki-based","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"wiki-based","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"wiki-based","segmentation":["er","tv show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"wiki-based","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"wiki-based","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"wiki-based","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"wiki-based","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"wiki-based","segmentation":["earn money","at home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"wiki-based","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"wiki-based","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"wiki-based","segmentation":["discovery channel","store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"wiki-based","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"wiki-based","segmentation":["president of","the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"wiki-based","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"wiki-based","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"wiki-based","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"wiki-based","segmentation":["uss yorktown","charleston sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"wiki-based","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"wiki-based","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"wiki-based","segmentation":["how to","build a","fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"wiki-based","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"wiki-based","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"wiki-based","segmentation":["texas","border patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"wiki-based","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"wiki-based","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"wiki-based","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"wiki-based","segmentation":["income tax","return online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"wiki-based","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"wiki-based","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"wiki-based","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"wiki-based","segmentation":["to be","or","not to be","that","is","the","question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"wiki-based","segmentation":["living","in india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"wiki-based","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"wiki-based","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"wiki-based","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"wiki-based","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"wiki-based","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"wiki-based","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"wiki-based","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"wiki-based","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"wiki-based","segmentation":["rincon puerto rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"wiki-based","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"wiki-based","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"wiki-based","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"wiki-based","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"wiki-based","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"wiki-based","segmentation":["milwaukee journal sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"wiki-based","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"wiki-based","segmentation":["who invented","music"]}
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"wt-baseline","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"wt-baseline","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"wt-baseline","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"wt-baseline","segmentation":["er","tv show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"wt-baseline","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"wt-baseline","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"wt-baseline","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"wt-baseline","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"wt-baseline","segmentation":["earn","money","at","home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"wt-baseline","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"wt-baseline","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"wt-baseline","segmentation":["discovery channel","store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"wt-baseline","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"wt-baseline","segmentation":["president of","the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"wt-baseline","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"wt-baseline","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"wt-baseline","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"wt-baseline","segmentation":["uss yorktown","charleston sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"wt-baseline","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"wt-baseline","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"wt-baseline","segmentation":["how","to","build","a","fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"wt-baseline","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"wt-baseline","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"wt-baseline","segmentation":["texas","border patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"wt-baseline","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"wt-baseline","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"wt-baseline","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"wt-baseline","segmentation":["income tax","return online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"wt-baseline","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"wt-baseline","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"wt-baseline","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"wt-baseline","segmentation":["to be or","not to","be that is","the question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"wt-baseline","segmentation":["living","in","india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"wt-baseline","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"wt-baseline","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"wt-baseline","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"wt-baseline","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"wt-baseline","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"wt-baseline","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"wt-baseline","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"wt-baseline","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"wt-baseline","segmentation":["rincon puerto rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"wt-baseline","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"wt-baseline","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"wt-baseline","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"wt-baseline","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"wt-baseline","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"wt-baseline","segmentation":["milwaukee journal sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"wt-baseline","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"wt-baseline","segmentation":["who","invented","music"]}
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"naive","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"naive","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"naive","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"naive","segmentation":["er","tv show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"naive","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"naive","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"naive","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"naive","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"naive","segmentation":["earn money","at home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"naive","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"naive","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"naive","segmentation":["discovery channel","store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"naive","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"naive","segmentation":["president of the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"naive","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"naive","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"naive","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"naive","segmentation":["uss yorktown","charleston sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"naive","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"naive","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"naive","segmentation":["how to","build a","fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"naive","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"naive","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"naive","segmentation":["texas","border patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"naive","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"naive","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"naive","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"naive","segmentation":["income tax","return online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"naive","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"naive","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"naive","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"naive","segmentation":["to be","or not to be that is the question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"naive","segmentation":["living","in india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"naive","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"naive","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"naive","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"naive","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"naive","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"naive","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"naive","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"naive","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"naive","segmentation":["rincon","puerto rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"naive","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"naive","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"naive","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"naive","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"naive","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"naive","segmentation":["milwaukee journal sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"naive","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"naive","segmentation":["who invented","music"]}
+{"qid":"88","originalQuery":"forearm pain","segmentationApproach":"hyb-i","segmentation":["forearm","pain"]}
+{"qid":"89","originalQuery":"ocd","segmentationApproach":"hyb-i","segmentation":["ocd"]}
+{"qid":"90","originalQuery":"mgb","segmentationApproach":"hyb-i","segmentation":["mgb"]}
+{"qid":"91","originalQuery":"er tv show","segmentationApproach":"hyb-i","segmentation":["er","tv","show"]}
+{"qid":"92","originalQuery":"the wall","segmentationApproach":"hyb-i","segmentation":["the","wall"]}
+{"qid":"93","originalQuery":"raffles","segmentationApproach":"hyb-i","segmentation":["raffles"]}
+{"qid":"94","originalQuery":"titan","segmentationApproach":"hyb-i","segmentation":["titan"]}
+{"qid":"51","originalQuery":"horse hooves","segmentationApproach":"hyb-i","segmentation":["horse","hooves"]}
+{"qid":"95","originalQuery":"earn money at home","segmentationApproach":"hyb-i","segmentation":["earn money","at home"]}
+{"qid":"52","originalQuery":"avp","segmentationApproach":"hyb-i","segmentation":["avp"]}
+{"qid":"96","originalQuery":"rice","segmentationApproach":"hyb-i","segmentation":["rice"]}
+{"qid":"53","originalQuery":"discovery channel store","segmentationApproach":"hyb-i","segmentation":["discovery","channel","store"]}
+{"qid":"97","originalQuery":"south africa","segmentationApproach":"hyb-i","segmentation":["south","africa"]}
+{"qid":"54","originalQuery":"president of the united states","segmentationApproach":"hyb-i","segmentation":["president of","the united states"]}
+{"qid":"98","originalQuery":"sat","segmentationApproach":"hyb-i","segmentation":["sat"]}
+{"qid":"55","originalQuery":"iron","segmentationApproach":"hyb-i","segmentation":["iron"]}
+{"qid":"99","originalQuery":"satellite","segmentationApproach":"hyb-i","segmentation":["satellite"]}
+{"qid":"56","originalQuery":"uss yorktown charleston sc","segmentationApproach":"hyb-i","segmentation":["uss","yorktown","charleston","sc"]}
+{"qid":"57","originalQuery":"ct jobs","segmentationApproach":"hyb-i","segmentation":["ct","jobs"]}
+{"qid":"58","originalQuery":"penguins","segmentationApproach":"hyb-i","segmentation":["penguins"]}
+{"qid":"59","originalQuery":"how to build a fence","segmentationApproach":"hyb-i","segmentation":["how to","build a","fence"]}
+{"qid":"60","originalQuery":"bellevue","segmentationApproach":"hyb-i","segmentation":["bellevue"]}
+{"qid":"61","originalQuery":"worm","segmentationApproach":"hyb-i","segmentation":["worm"]}
+{"qid":"62","originalQuery":"texas border patrol","segmentationApproach":"hyb-i","segmentation":["texas","border","patrol"]}
+{"qid":"63","originalQuery":"flushing","segmentationApproach":"hyb-i","segmentation":["flushing"]}
+{"qid":"64","originalQuery":"moths","segmentationApproach":"hyb-i","segmentation":["moths"]}
+{"qid":"65","originalQuery":"korean language","segmentationApproach":"hyb-i","segmentation":["korean","language"]}
+{"qid":"66","originalQuery":"income tax return online","segmentationApproach":"hyb-i","segmentation":["income tax","return online"]}
+{"qid":"67","originalQuery":"vldl levels","segmentationApproach":"hyb-i","segmentation":["vldl","levels"]}
+{"qid":"68","originalQuery":"pvc","segmentationApproach":"hyb-i","segmentation":["pvc"]}
+{"qid":"69","originalQuery":"sewing instructions","segmentationApproach":"hyb-i","segmentation":["sewing","instructions"]}
+{"qid":"70","originalQuery":"to be or not to be that is the question","segmentationApproach":"hyb-i","segmentation":["to be","or","not to be","that","is","the","question"]}
+{"qid":"71","originalQuery":"living in india","segmentationApproach":"hyb-i","segmentation":["living","in india"]}
+{"qid":"72","originalQuery":"the sun","segmentationApproach":"hyb-i","segmentation":["the","sun"]}
+{"qid":"73","originalQuery":"neil young","segmentationApproach":"hyb-i","segmentation":["neil","young"]}
+{"qid":"74","originalQuery":"kiwi","segmentationApproach":"hyb-i","segmentation":["kiwi"]}
+{"qid":"75","originalQuery":"tornadoes","segmentationApproach":"hyb-i","segmentation":["tornadoes"]}
+{"qid":"76","originalQuery":"raised gardens","segmentationApproach":"hyb-i","segmentation":["raised","gardens"]}
+{"qid":"77","originalQuery":"bobcat","segmentationApproach":"hyb-i","segmentation":["bobcat"]}
+{"qid":"78","originalQuery":"dieting","segmentationApproach":"hyb-i","segmentation":["dieting"]}
+{"qid":"79","originalQuery":"voyager","segmentationApproach":"hyb-i","segmentation":["voyager"]}
+{"qid":"100","originalQuery":"rincon puerto rico","segmentationApproach":"hyb-i","segmentation":["rincon","puerto","rico"]}
+{"qid":"80","originalQuery":"keyboard reviews","segmentationApproach":"hyb-i","segmentation":["keyboard","reviews"]}
+{"qid":"81","originalQuery":"afghanistan","segmentationApproach":"hyb-i","segmentation":["afghanistan"]}
+{"qid":"82","originalQuery":"joints","segmentationApproach":"hyb-i","segmentation":["joints"]}
+{"qid":"83","originalQuery":"memory","segmentationApproach":"hyb-i","segmentation":["memory"]}
+{"qid":"84","originalQuery":"continental plates","segmentationApproach":"hyb-i","segmentation":["continental","plates"]}
+{"qid":"85","originalQuery":"milwaukee journal sentinel","segmentationApproach":"hyb-i","segmentation":["milwaukee","journal","sentinel"]}
+{"qid":"86","originalQuery":"bart sf","segmentationApproach":"hyb-i","segmentation":["bart","sf"]}
+{"qid":"87","originalQuery":"who invented music","segmentationApproach":"hyb-i","segmentation":["who invented","music"]}

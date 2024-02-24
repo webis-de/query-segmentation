@@ -1,0 +1,343 @@
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"wt-snp-baseline","segmentation":["should","election day","be","a national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"wt-snp-baseline","segmentation":["should","the penny","stay in circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"wt-snp-baseline","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"wt-snp-baseline","segmentation":["is","homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"wt-snp-baseline","segmentation":["should","the voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"wt-snp-baseline","segmentation":["should","body cameras","be mandatory for police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"wt-snp-baseline","segmentation":["should everyone get","a universal basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"wt-snp-baseline","segmentation":["should","any vaccines","be required for children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"wt-snp-baseline","segmentation":["should","performance-enhancing drugs","be accepted in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"wt-snp-baseline","segmentation":["should","birth control pills","be available","over the counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"wt-snp-baseline","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"wt-snp-baseline","segmentation":["is","sexual orientation","determined at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"wt-snp-baseline","segmentation":["should animals be used for scientific or","commercial testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"wt-snp-baseline","segmentation":["should","prescription drugs","be advertised directly to consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"wt-snp-baseline","segmentation":["should","recreational marijuana","be legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"wt-snp-baseline","segmentation":["should","churches","remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"wt-snp-baseline","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"wt-snp-baseline","segmentation":["should","teachers","get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"wt-snp-baseline","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"wt-snp-baseline","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"wt-snp-baseline","segmentation":["should","corporal punishment","be used in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"wt-snp-baseline","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"wt-snp-baseline","segmentation":["is","a college education","worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"wt-snp-baseline","segmentation":["should","felons","who","have","completed","their","sentence","be","allowed","to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"wt-snp-baseline","segmentation":["should","abortion","be","legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"wt-snp-baseline","segmentation":["should students have to wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"wt-snp-baseline","segmentation":["is","drinking milk","healthy for humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"wt-snp-baseline","segmentation":["is","human activity","primarily responsible for","global climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"wt-snp-baseline","segmentation":["is","a two-state solution","an acceptable solution","to","the israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"wt-snp-baseline","segmentation":["should euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"wt-snp-baseline","segmentation":["does lowering","the federal corporate income tax","rate create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"wt-snp-baseline","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"wt-snp-baseline","segmentation":["should","more gun control laws","be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"wt-snp-baseline","segmentation":["should","prostitution","be","legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"wt-snp-baseline","segmentation":["should","the government","allow","illegal immigrants","to become citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"wt-snp-baseline","segmentation":["should adults have","the right","to carry a","concealed handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"wt-snp-baseline","segmentation":["is","obesity a disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"wt-snp-baseline","segmentation":["do","electronic voting machines","improve","the voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"wt-snp-baseline","segmentation":["should","people","become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"wt-snp-baseline","segmentation":["are","social networking sites","good for our society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"wt-snp-baseline","segmentation":["do","violent video games","contribute to","youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"wt-snp-baseline","segmentation":["is","golf a sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"wt-snp-baseline","segmentation":["is","cell phone radiation","safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"wt-snp-baseline","segmentation":["should marijuana be","a medical option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"wt-snp-baseline","segmentation":["should","the federal minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"wt-snp-baseline","segmentation":["should","the death penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"wt-snp-baseline","segmentation":["should","student loan debt","be easier to","discharge in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"wt-snp-baseline","segmentation":["should","fighting","be","allowed","in","hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"wt-snp-baseline","segmentation":["should","bottled water","be banned"]}
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"hyb-b","segmentation":["should","election day","be a","national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"hyb-b","segmentation":["should","the penny","stay in circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"hyb-b","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"hyb-b","segmentation":["is","homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"hyb-b","segmentation":["should the","voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"hyb-b","segmentation":["should","body","cameras","be","mandatory","for","police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"hyb-b","segmentation":["should everyone get a","universal basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"hyb-b","segmentation":["should","any","vaccines","be","required","for","children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"hyb-b","segmentation":["should","performance-enhancing drugs","be accepted in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"hyb-b","segmentation":["should","birth control pills","be available","over the counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"hyb-b","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"hyb-b","segmentation":["is","sexual orientation","determined at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"hyb-b","segmentation":["should","animals","be","used","for","scientific","or","commercial","testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"hyb-b","segmentation":["should","prescription drugs","be advertised directly to consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"hyb-b","segmentation":["should","recreational","marijuana","be","legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"hyb-b","segmentation":["should","churches","remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"hyb-b","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"hyb-b","segmentation":["should","teachers","get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"hyb-b","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"hyb-b","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"hyb-b","segmentation":["should","corporal punishment","be used in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"hyb-b","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"hyb-b","segmentation":["is a","college education","worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"hyb-b","segmentation":["should","felons","who","have","completed","their","sentence","be","allowed","to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"hyb-b","segmentation":["should","abortion","be","legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"hyb-b","segmentation":["should students have to wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"hyb-b","segmentation":["is","drinking","milk","healthy","for","humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"hyb-b","segmentation":["is human activity primarily responsible for","global climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"hyb-b","segmentation":["is a","two-state solution","an acceptable solution to the","israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"hyb-b","segmentation":["should euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"hyb-b","segmentation":["does lowering","the federal","corporate income tax","rate create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"hyb-b","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"hyb-b","segmentation":["should more","gun control","laws be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"hyb-b","segmentation":["should","prostitution","be","legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"hyb-b","segmentation":["should","the government","allow","illegal immigrants","to become citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"hyb-b","segmentation":["should adults have","the right","to carry a","concealed handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"hyb-b","segmentation":["is","obesity","a","disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"hyb-b","segmentation":["do","electronic voting machines","improve the voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"hyb-b","segmentation":["should","people","become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"hyb-b","segmentation":["are","social networking sites","good for our society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"hyb-b","segmentation":["do","violent video games","contribute to youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"hyb-b","segmentation":["is","golf","a","sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"hyb-b","segmentation":["is","cell phone radiation","safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"hyb-b","segmentation":["should","marijuana","be","a","medical","option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"hyb-b","segmentation":["should","the federal","minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"hyb-b","segmentation":["should","the death penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"hyb-b","segmentation":["should","student loan","debt be easier to","discharge in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"hyb-b","segmentation":["should","fighting","be","allowed","in","hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"hyb-b","segmentation":["should","bottled water","be banned"]}
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"hyb-a","segmentation":["should","election day","be a","national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"hyb-a","segmentation":["should","the penny","stay in circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"hyb-a","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"hyb-a","segmentation":["is","homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"hyb-a","segmentation":["should the","voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"hyb-a","segmentation":["should","body","cameras","be","mandatory","for","police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"hyb-a","segmentation":["should everyone get a","universal basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"hyb-a","segmentation":["should","any","vaccines","be","required","for","children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"hyb-a","segmentation":["should","performance-enhancing drugs","be accepted in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"hyb-a","segmentation":["should","birth control pills","be available","over the counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"hyb-a","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"hyb-a","segmentation":["is","sexual orientation","determined at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"hyb-a","segmentation":["should","animals","be","used","for","scientific","or","commercial","testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"hyb-a","segmentation":["should","prescription drugs","be advertised directly to consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"hyb-a","segmentation":["should","recreational","marijuana","be","legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"hyb-a","segmentation":["should","churches","remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"hyb-a","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"hyb-a","segmentation":["should","teachers","get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"hyb-a","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"hyb-a","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"hyb-a","segmentation":["should","corporal punishment","be used in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"hyb-a","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"hyb-a","segmentation":["is a","college education","worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"hyb-a","segmentation":["should","felons","who","have","completed","their","sentence","be","allowed","to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"hyb-a","segmentation":["should","abortion","be","legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"hyb-a","segmentation":["should students have to wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"hyb-a","segmentation":["is","drinking","milk","healthy","for","humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"hyb-a","segmentation":["is human activity primarily responsible for","global climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"hyb-a","segmentation":["is a","two-state solution","an acceptable solution to the","israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"hyb-a","segmentation":["should euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"hyb-a","segmentation":["does lowering","the federal","corporate income tax","rate create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"hyb-a","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"hyb-a","segmentation":["should more","gun control","laws be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"hyb-a","segmentation":["should","prostitution","be","legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"hyb-a","segmentation":["should","the government","allow","illegal immigrants","to become citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"hyb-a","segmentation":["should adults have","the right","to carry a","concealed handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"hyb-a","segmentation":["is","obesity","a","disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"hyb-a","segmentation":["do","electronic voting machines","improve the voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"hyb-a","segmentation":["should","people","become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"hyb-a","segmentation":["are","social networking sites","good for our society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"hyb-a","segmentation":["do","violent video games","contribute to youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"hyb-a","segmentation":["is","golf","a","sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"hyb-a","segmentation":["is","cell phone radiation","safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"hyb-a","segmentation":["should","marijuana","be","a","medical","option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"hyb-a","segmentation":["should","the federal","minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"hyb-a","segmentation":["should","the death penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"hyb-a","segmentation":["should","student loan","debt be easier to","discharge in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"hyb-a","segmentation":["should","fighting","be","allowed","in","hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"hyb-a","segmentation":["should","bottled water","be banned"]}
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"wiki-based","segmentation":["should","election day","be a","national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"wiki-based","segmentation":["should the","penny","stay in","circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"wiki-based","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"wiki-based","segmentation":["is homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"wiki-based","segmentation":["should the","voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"wiki-based","segmentation":["should","body cameras","be mandatory","for police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"wiki-based","segmentation":["should everyone","get a","universal basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"wiki-based","segmentation":["should any","vaccines","be required","for children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"wiki-based","segmentation":["should","performance-enhancing drugs","be accepted","in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"wiki-based","segmentation":["should","birth control pills","be available","over the counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"wiki-based","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"wiki-based","segmentation":["is","sexual orientation","determined","at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"wiki-based","segmentation":["should animals","be used","for scientific","or commercial","testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"wiki-based","segmentation":["should","prescription drugs","be advertised","directly to","consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"wiki-based","segmentation":["should","recreational marijuana","be legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"wiki-based","segmentation":["should","churches remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"wiki-based","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"wiki-based","segmentation":["should","teachers get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"wiki-based","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"wiki-based","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"wiki-based","segmentation":["should","corporal punishment","be used","in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"wiki-based","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"wiki-based","segmentation":["is a","college education","worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"wiki-based","segmentation":["should felons","who have","completed their","sentence be","allowed to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"wiki-based","segmentation":["should abortion","be legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"wiki-based","segmentation":["should students","have to","wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"wiki-based","segmentation":["is drinking","milk healthy","for humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"wiki-based","segmentation":["is","human activity","primarily","responsible for","global climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"wiki-based","segmentation":["is a","two-state solution","an acceptable","solution","to the","israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"wiki-based","segmentation":["should","euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"wiki-based","segmentation":["does lowering","the federal","corporate income tax","rate","create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"wiki-based","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"wiki-based","segmentation":["should more","gun control","laws","be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"wiki-based","segmentation":["should prostitution","be legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"wiki-based","segmentation":["should","the government","allow","illegal immigrants","to become","citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"wiki-based","segmentation":["should adults","have the","right to carry","a concealed","handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"wiki-based","segmentation":["is obesity","a disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"wiki-based","segmentation":["do","electronic voting machines","improve the","voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"wiki-based","segmentation":["should","people become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"wiki-based","segmentation":["are","social networking sites","good","for our","society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"wiki-based","segmentation":["do","violent video games","contribute to","youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"wiki-based","segmentation":["is golf","a sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"wiki-based","segmentation":["is","cell phone radiation","safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"wiki-based","segmentation":["should marijuana","be a","medical option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"wiki-based","segmentation":["should","the federal","minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"wiki-based","segmentation":["should","the death penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"wiki-based","segmentation":["should","student loan","debt be","easier to","discharge in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"wiki-based","segmentation":["should fighting","be allowed","in hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"wiki-based","segmentation":["should","bottled water","be banned"]}
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"wt-baseline","segmentation":["should","election day","be a","national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"wt-baseline","segmentation":["should","the penny","stay in circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"wt-baseline","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"wt-baseline","segmentation":["is","homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"wt-baseline","segmentation":["should the","voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"wt-baseline","segmentation":["should","body","cameras","be","mandatory","for","police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"wt-baseline","segmentation":["should everyone get a","universal basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"wt-baseline","segmentation":["should","any","vaccines","be","required","for","children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"wt-baseline","segmentation":["should","performance-enhancing drugs","be accepted in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"wt-baseline","segmentation":["should","birth control pills","be available","over the counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"wt-baseline","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"wt-baseline","segmentation":["is","sexual orientation","determined at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"wt-baseline","segmentation":["should","animals","be","used","for","scientific","or","commercial","testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"wt-baseline","segmentation":["should","prescription drugs","be advertised directly to consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"wt-baseline","segmentation":["should","recreational","marijuana","be","legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"wt-baseline","segmentation":["should","churches","remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"wt-baseline","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"wt-baseline","segmentation":["should","teachers","get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"wt-baseline","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"wt-baseline","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"wt-baseline","segmentation":["should","corporal punishment","be used in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"wt-baseline","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"wt-baseline","segmentation":["is a","college education","worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"wt-baseline","segmentation":["should","felons","who","have","completed","their","sentence","be","allowed","to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"wt-baseline","segmentation":["should","abortion","be","legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"wt-baseline","segmentation":["should students have to wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"wt-baseline","segmentation":["is","drinking","milk","healthy","for","humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"wt-baseline","segmentation":["is human activity primarily responsible for","global climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"wt-baseline","segmentation":["is a","two-state solution","an acceptable solution to the","israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"wt-baseline","segmentation":["should euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"wt-baseline","segmentation":["does lowering","the federal","corporate income tax","rate create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"wt-baseline","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"wt-baseline","segmentation":["should more","gun control","laws be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"wt-baseline","segmentation":["should","prostitution","be","legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"wt-baseline","segmentation":["should","the government","allow","illegal immigrants","to become citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"wt-baseline","segmentation":["should adults have","the right","to carry a","concealed handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"wt-baseline","segmentation":["is","obesity","a","disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"wt-baseline","segmentation":["do","electronic voting machines","improve the voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"wt-baseline","segmentation":["should","people","become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"wt-baseline","segmentation":["are","social networking sites","good for our society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"wt-baseline","segmentation":["do","violent video games","contribute to youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"wt-baseline","segmentation":["is","golf","a","sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"wt-baseline","segmentation":["is","cell phone radiation","safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"wt-baseline","segmentation":["should","marijuana","be","a","medical","option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"wt-baseline","segmentation":["should","the federal","minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"wt-baseline","segmentation":["should","the death penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"wt-baseline","segmentation":["should","student loan","debt be easier to","discharge in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"wt-baseline","segmentation":["should","fighting","be","allowed","in","hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"wt-baseline","segmentation":["should","bottled water","be banned"]}
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"naive","segmentation":["should","election day","be a","national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"naive","segmentation":["should the","penny","stay in","circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"naive","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"naive","segmentation":["is homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"naive","segmentation":["should the","voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"naive","segmentation":["should","body cameras","be mandatory","for police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"naive","segmentation":["should everyone","get a","universal","basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"naive","segmentation":["should any","vaccines","be required","for children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"naive","segmentation":["should","performance-enhancing drugs","be accepted","in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"naive","segmentation":["should","birth control pills","be available","over the","counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"naive","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"naive","segmentation":["is","sexual orientation","determined","at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"naive","segmentation":["should animals","be used","for scientific","or commercial","testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"naive","segmentation":["should","prescription drugs","be advertised","directly to","consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"naive","segmentation":["should","recreational marijuana","be legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"naive","segmentation":["should","churches remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"naive","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"naive","segmentation":["should","teachers get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"naive","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"naive","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"naive","segmentation":["should","corporal punishment","be used","in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"naive","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"naive","segmentation":["is a","college education worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"naive","segmentation":["should felons","who have","completed their","sentence","be allowed to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"naive","segmentation":["should abortion","be legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"naive","segmentation":["should students","have to","wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"naive","segmentation":["is drinking","milk healthy","for humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"naive","segmentation":["is","human activity","primarily","responsible for","global","climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"naive","segmentation":["is a","two-state solution an acceptable solution to the israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"naive","segmentation":["should","euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"naive","segmentation":["does lowering","the federal","corporate","income tax","rate","create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"naive","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"naive","segmentation":["should more","gun control","laws","be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"naive","segmentation":["should prostitution","be legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"naive","segmentation":["should","the government","allow","illegal immigrants","to become","citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"naive","segmentation":["should adults","have the right to","carry a","concealed handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"naive","segmentation":["is obesity","a disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"naive","segmentation":["do","electronic voting machines","improve the","voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"naive","segmentation":["should","people become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"naive","segmentation":["are","social networking","sites good","for our","society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"naive","segmentation":["do violent","video games","contribute to","youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"naive","segmentation":["is golf","a sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"naive","segmentation":["is","cell phone","radiation safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"naive","segmentation":["should marijuana","be a","medical option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"naive","segmentation":["should","the federal","minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"naive","segmentation":["should","the death","penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"naive","segmentation":["should","student loan","debt be","easier to","discharge","in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"naive","segmentation":["should fighting","be allowed","in hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"naive","segmentation":["should","bottled water","be banned"]}
+{"qid":"44","originalQuery":"Should election day be a national holiday?","segmentationApproach":"hyb-i","segmentation":["should","election day","be a","national holiday"]}
+{"qid":"45","originalQuery":"Should the penny stay in circulation?","segmentationApproach":"hyb-i","segmentation":["should the","penny","stay in","circulation"]}
+{"qid":"46","originalQuery":"Should net neutrality be restored?","segmentationApproach":"hyb-i","segmentation":["should","net neutrality","be restored"]}
+{"qid":"47","originalQuery":"Is homework beneficial?","segmentationApproach":"hyb-i","segmentation":["is homework","beneficial"]}
+{"qid":"48","originalQuery":"Should the voting age be lowered?","segmentationApproach":"hyb-i","segmentation":["should the","voting age","be lowered"]}
+{"qid":"49","originalQuery":"Should body cameras be mandatory for police?","segmentationApproach":"hyb-i","segmentation":["should","body cameras","be mandatory","for police"]}
+{"qid":"50","originalQuery":"Should everyone get a universal basic income?","segmentationApproach":"hyb-i","segmentation":["should everyone","get a","universal basic income"]}
+{"qid":"10","originalQuery":"Should any vaccines be required for children?","segmentationApproach":"hyb-i","segmentation":["should any","vaccines","be required","for children"]}
+{"qid":"11","originalQuery":"Should performance-enhancing drugs be accepted in sports?","segmentationApproach":"hyb-i","segmentation":["should","performance-enhancing drugs","be accepted","in sports"]}
+{"qid":"12","originalQuery":"Should birth control pills be available over the counter?","segmentationApproach":"hyb-i","segmentation":["should","birth control pills","be available","over the counter"]}
+{"qid":"13","originalQuery":"Can alternative energy effectively replace fossil fuels?","segmentationApproach":"hyb-i","segmentation":["can","alternative energy","effectively replace","fossil fuels"]}
+{"qid":"14","originalQuery":"Is sexual orientation determined at birth?","segmentationApproach":"hyb-i","segmentation":["is","sexual orientation","determined","at birth"]}
+{"qid":"15","originalQuery":"Should animals be used for scientific or commercial testing?","segmentationApproach":"hyb-i","segmentation":["should animals","be used","for scientific","or commercial","testing"]}
+{"qid":"16","originalQuery":"Should prescription drugs be advertised directly to consumers?","segmentationApproach":"hyb-i","segmentation":["should","prescription drugs","be advertised","directly to","consumers"]}
+{"qid":"17","originalQuery":"Should recreational marijuana be legal?","segmentationApproach":"hyb-i","segmentation":["should","recreational marijuana","be legal"]}
+{"qid":"18","originalQuery":"Should churches remain tax-exempt?","segmentationApproach":"hyb-i","segmentation":["should","churches remain","tax-exempt"]}
+{"qid":"19","originalQuery":"Should gay marriage be legal?","segmentationApproach":"hyb-i","segmentation":["should","gay marriage","be legal"]}
+{"qid":"1","originalQuery":"Should teachers get tenure?","segmentationApproach":"hyb-i","segmentation":["should","teachers get","tenure"]}
+{"qid":"2","originalQuery":"Is vaping with e-cigarettes safe?","segmentationApproach":"hyb-i","segmentation":["is","vaping","with","e-cigarettes","safe"]}
+{"qid":"3","originalQuery":"Should insider trading be allowed?","segmentationApproach":"hyb-i","segmentation":["should","insider trading","be allowed"]}
+{"qid":"4","originalQuery":"Should corporal punishment be used in schools?","segmentationApproach":"hyb-i","segmentation":["should","corporal punishment","be used","in schools"]}
+{"qid":"5","originalQuery":"Should social security be privatized?","segmentationApproach":"hyb-i","segmentation":["should","social security","be privatized"]}
+{"qid":"6","originalQuery":"Is a college education worth it?","segmentationApproach":"hyb-i","segmentation":["is a","college education","worth it"]}
+{"qid":"7","originalQuery":"Should felons who have completed their sentence be allowed to vote?","segmentationApproach":"hyb-i","segmentation":["should felons","who have","completed their","sentence be","allowed to","vote"]}
+{"qid":"8","originalQuery":"Should abortion be legal?","segmentationApproach":"hyb-i","segmentation":["should abortion","be legal"]}
+{"qid":"9","originalQuery":"Should students have to wear school uniforms?","segmentationApproach":"hyb-i","segmentation":["should students","have to","wear","school uniforms"]}
+{"qid":"20","originalQuery":"Is drinking milk healthy for humans?","segmentationApproach":"hyb-i","segmentation":["is drinking","milk healthy","for humans"]}
+{"qid":"21","originalQuery":"Is human activity primarily responsible for global climate change?","segmentationApproach":"hyb-i","segmentation":["is","human activity","primarily","responsible for","global climate change"]}
+{"qid":"22","originalQuery":"Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?","segmentationApproach":"hyb-i","segmentation":["is a","two-state solution","an acceptable","solution","to the","israeli-palestinian conflict"]}
+{"qid":"23","originalQuery":"Should euthanasia or physician-assisted suicide be legal?","segmentationApproach":"hyb-i","segmentation":["should","euthanasia or","physician-assisted suicide","be legal"]}
+{"qid":"24","originalQuery":"Does lowering the federal corporate income tax rate create jobs?","segmentationApproach":"hyb-i","segmentation":["does lowering","the federal","corporate income tax","rate","create jobs"]}
+{"qid":"26","originalQuery":"Do standardized tests improve education?","segmentationApproach":"hyb-i","segmentation":["do","standardized tests","improve education"]}
+{"qid":"27","originalQuery":"Should more gun control laws be enacted?","segmentationApproach":"hyb-i","segmentation":["should more","gun control","laws","be enacted"]}
+{"qid":"28","originalQuery":"Should prostitution be legal?","segmentationApproach":"hyb-i","segmentation":["should prostitution","be legal"]}
+{"qid":"29","originalQuery":"Should the government allow illegal immigrants to become citizens?","segmentationApproach":"hyb-i","segmentation":["should","the government","allow","illegal immigrants","to become","citizens"]}
+{"qid":"30","originalQuery":"Should adults have the right to carry a concealed handgun?","segmentationApproach":"hyb-i","segmentation":["should adults","have the","right to carry","a concealed","handgun"]}
+{"qid":"31","originalQuery":"Is obesity a disease?","segmentationApproach":"hyb-i","segmentation":["is obesity","a disease"]}
+{"qid":"32","originalQuery":"Do electronic voting machines improve the voting process?","segmentationApproach":"hyb-i","segmentation":["do","electronic voting machines","improve the","voting process"]}
+{"qid":"33","originalQuery":"Should people become vegetarian?","segmentationApproach":"hyb-i","segmentation":["should","people become","vegetarian"]}
+{"qid":"34","originalQuery":"Are social networking sites good for our society?","segmentationApproach":"hyb-i","segmentation":["are","social networking sites","good","for our","society"]}
+{"qid":"35","originalQuery":"Do violent video games contribute to youth violence?","segmentationApproach":"hyb-i","segmentation":["do","violent video games","contribute to","youth violence"]}
+{"qid":"36","originalQuery":"Is golf a sport?","segmentationApproach":"hyb-i","segmentation":["is golf","a sport"]}
+{"qid":"37","originalQuery":"Is cell phone radiation safe?","segmentationApproach":"hyb-i","segmentation":["is","cell phone radiation","safe"]}
+{"qid":"38","originalQuery":"Should marijuana be a medical option?","segmentationApproach":"hyb-i","segmentation":["should marijuana","be a","medical option"]}
+{"qid":"39","originalQuery":"Should the federal minimum wage be increased?","segmentationApproach":"hyb-i","segmentation":["should","the federal","minimum wage","be increased"]}
+{"qid":"40","originalQuery":"Should the death penalty be allowed?","segmentationApproach":"hyb-i","segmentation":["should","the death penalty","be allowed"]}
+{"qid":"41","originalQuery":"Should student loan debt be easier to discharge in bankruptcy?","segmentationApproach":"hyb-i","segmentation":["should","student loan","debt be","easier to","discharge in bankruptcy"]}
+{"qid":"42","originalQuery":"Should fighting be allowed in hockey?","segmentationApproach":"hyb-i","segmentation":["should fighting","be allowed","in hockey"]}
+{"qid":"43","originalQuery":"Should bottled water be banned?","segmentationApproach":"hyb-i","segmentation":["should","bottled water","be banned"]}
