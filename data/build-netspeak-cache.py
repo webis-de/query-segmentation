@@ -31,6 +31,7 @@ for dataset in tqdm(datasets):
     
     print(f"tira-run \
         --image webis/query-segmentation:application-1.0 \
+        --allow-network true \
         --input-dir data/{dataset}/ \
         --output-dir data/{dataset}-cache/ \
         --command 'java -jar /query-segmentation-application.jar --input $inputDataset --cache $outputDir --output $outputDir --segmentation-approach wt-snp-baseline hyb-b hyb-a wiki-based wt-baseline naive hyb-i'")
