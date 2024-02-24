@@ -1,0 +1,350 @@
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"wt-snp-baseline","segmentation":["which company","has a","larger capitalization","apple or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"wt-snp-baseline","segmentation":["which laptop","has a","better durability","hp or dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"wt-snp-baseline","segmentation":["which beverage has more calories per","glass beer","or cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"wt-snp-baseline","segmentation":["is","admission rate","in stanford higher than that of mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"wt-snp-baseline","segmentation":["is","pasta","healthier","than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"wt-snp-baseline","segmentation":["which city is more expensive to","live in san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"wt-snp-baseline","segmentation":["whose salary is","higher basketball","or","soccer players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"wt-snp-baseline","segmentation":["how to sleep","better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"wt-snp-baseline","segmentation":["should i","buy","an lcd tv","or","a plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"wt-snp-baseline","segmentation":["train or plane which is","the better choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"wt-snp-baseline","segmentation":["what is","the highest mountain","on earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"wt-snp-baseline","segmentation":["should one prefer","chinese medicine","or","western medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"wt-snp-baseline","segmentation":["what are","the best washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"wt-snp-baseline","segmentation":["should i","buy or rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"wt-snp-baseline","segmentation":["do","you","prefer","cats","or","dogs","and","why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"wt-snp-baseline","segmentation":["what is","the better way","to","grill outdoors","gas or charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"wt-snp-baseline","segmentation":["which is","better mac","or pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"wt-snp-baseline","segmentation":["what is","the difference","between sex and love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"wt-snp-baseline","segmentation":["which is better","a laptop","or","a desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"wt-snp-baseline","segmentation":["which is","better canon","or nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"wt-snp-baseline","segmentation":["what are","the best dish","detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"wt-snp-baseline","segmentation":["what are","the best cities","to live in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"wt-snp-baseline","segmentation":["what is","the longest river","in","the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"wt-snp-baseline","segmentation":["which is healthiest","coffee green tea","or","black tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"wt-snp-baseline","segmentation":["what are","the advantages","and disadvantages of php over python and","vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"wt-snp-baseline","segmentation":["why is linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"wt-snp-baseline","segmentation":["what is better to use","a brush","or","a sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"wt-snp-baseline","segmentation":["which is","better linux","or microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"wt-snp-baseline","segmentation":["which is","better pepsi","or coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"wt-snp-baseline","segmentation":["what is","better google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"wt-snp-baseline","segmentation":["which","one","is","better","netflix","or","blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"wt-snp-baseline","segmentation":["which browser is","better internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"wt-snp-baseline","segmentation":["which is","a better vehicle","bmw or audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"wt-snp-baseline","segmentation":["which one is better","an electric stove","or","a gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"wt-snp-baseline","segmentation":["what planes are","best boeing","or airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"wt-snp-baseline","segmentation":["which is better disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"wt-snp-baseline","segmentation":["should i","buy","an xbox","or","a playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"wt-snp-baseline","segmentation":["which has more","caffeine coffee","or tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"wt-snp-baseline","segmentation":["which is better led or lcd","reception displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"wt-snp-baseline","segmentation":["what is","better asp","or php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"wt-snp-baseline","segmentation":["what is better for","the environment","a real","or","a fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"wt-snp-baseline","segmentation":["do","you","prefer","tampons","or","pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"wt-snp-baseline","segmentation":["what ide is better for","java netbeans","or eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"wt-snp-baseline","segmentation":["is opengl","better than","direct3d in terms of portability to","different platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"wt-snp-baseline","segmentation":["what are","the differences","between mysql and postgresql in performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"wt-snp-baseline","segmentation":["is","java code","more readable than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"wt-snp-baseline","segmentation":["which","operating system","has","better performance","windows 7","or","windows 8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"wt-snp-baseline","segmentation":["which smartphone","has a","better battery life","xperia or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"wt-snp-baseline","segmentation":["which","four wheel truck","is","better ford","or toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"wt-snp-baseline","segmentation":["should i","prefer","a leica camera","over nikon for","portrait photographs"]}
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"hyb-b","segmentation":["which company","has a","larger capitalization apple or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"hyb-b","segmentation":["which laptop","has a","better durability hp or dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"hyb-b","segmentation":["which","beverage","has","more","calories","per","glass","beer","or","cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"hyb-b","segmentation":["is","admission","rate","in","stanford","higher","than","that","of","mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"hyb-b","segmentation":["is","pasta","healthier","than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"hyb-b","segmentation":["which city is more expensive to","live in san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"hyb-b","segmentation":["whose","salary","is","higher","basketball","or","soccer","players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"hyb-b","segmentation":["how to sleep","better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"hyb-b","segmentation":["should i","buy an","lcd tv","or a","plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"hyb-b","segmentation":["train","or","plane","which","is","the","better","choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"hyb-b","segmentation":["what is the","highest mountain","on earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"hyb-b","segmentation":["should one prefer","chinese medicine","or","western medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"hyb-b","segmentation":["what are the best","washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"hyb-b","segmentation":["should i","buy or rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"hyb-b","segmentation":["do","you","prefer","cats","or","dogs","and","why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"hyb-b","segmentation":["what is the","better way","to grill outdoors gas or charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"hyb-b","segmentation":["which","is","better","mac","or","pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"hyb-b","segmentation":["what is","the difference","between sex and love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"hyb-b","segmentation":["which","is","better","a","laptop","or","a","desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"hyb-b","segmentation":["which","is","better","canon","or","nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"hyb-b","segmentation":["what","are","the","best","dish","detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"hyb-b","segmentation":["what","are","the","best","cities","to","live","in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"hyb-b","segmentation":["what is the","longest river","in","the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"hyb-b","segmentation":["which is healthiest coffee","green tea","or","black tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"hyb-b","segmentation":["what are the advantages and disadvantages of php over python and","vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"hyb-b","segmentation":["why is linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"hyb-b","segmentation":["what","is","better","to","use","a","brush","or","a","sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"hyb-b","segmentation":["which","is","better","linux","or","microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"hyb-b","segmentation":["which","is","better","pepsi","or","coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"hyb-b","segmentation":["what is better","google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"hyb-b","segmentation":["which","one","is","better","netflix","or","blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"hyb-b","segmentation":["which browser is better","internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"hyb-b","segmentation":["which","is","a","better","vehicle","bmw","or","audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"hyb-b","segmentation":["which one is better an","electric stove","or a","gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"hyb-b","segmentation":["what","planes","are","best","boeing","or","airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"hyb-b","segmentation":["which is better disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"hyb-b","segmentation":["should i","buy an xbox or a playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"hyb-b","segmentation":["which","has","more","caffeine","coffee","or","tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"hyb-b","segmentation":["which","is","better","led","or","lcd","reception","displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"hyb-b","segmentation":["what","is","better","asp","or","php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"hyb-b","segmentation":["what is better for","the environment","a real or a","fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"hyb-b","segmentation":["do","you","prefer","tampons","or","pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"hyb-b","segmentation":["what","ide","is","better","for","java","netbeans","or","eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"hyb-b","segmentation":["is opengl","better than","direct3d in terms of portability to different platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"hyb-b","segmentation":["what","are","the","differences","between","mysql","and","postgresql","in","performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"hyb-b","segmentation":["is","java code","more readable than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"hyb-b","segmentation":["which","operating system","has better performance","windows 7","or","windows 8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"hyb-b","segmentation":["which smartphone","has a","better","battery life","xperia or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"hyb-b","segmentation":["which","four","wheel","truck","is","better","ford","or","toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"hyb-b","segmentation":["should i","prefer a","leica camera","over nikon for portrait photographs"]}
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"hyb-a","segmentation":["which company","has a","larger capitalization apple or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"hyb-a","segmentation":["which laptop","has a","better durability hp or dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"hyb-a","segmentation":["which","beverage","has","more","calories","per","glass","beer","or","cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"hyb-a","segmentation":["is","admission","rate","in","stanford","higher","than","that","of","mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"hyb-a","segmentation":["is","pasta","healthier","than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"hyb-a","segmentation":["which city is more expensive to","live in san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"hyb-a","segmentation":["whose","salary","is","higher","basketball","or","soccer","players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"hyb-a","segmentation":["how to sleep","better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"hyb-a","segmentation":["should i","buy an","lcd tv","or a","plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"hyb-a","segmentation":["train","or","plane","which","is","the","better","choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"hyb-a","segmentation":["what is the","highest mountain","on earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"hyb-a","segmentation":["should one prefer","chinese medicine","or","western medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"hyb-a","segmentation":["what are the best","washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"hyb-a","segmentation":["should i","buy or rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"hyb-a","segmentation":["do","you","prefer","cats","or","dogs","and","why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"hyb-a","segmentation":["what is the","better way","to grill outdoors gas or charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"hyb-a","segmentation":["which","is","better","mac","or","pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"hyb-a","segmentation":["what is","the difference","between sex and love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"hyb-a","segmentation":["which","is","better","a","laptop","or","a","desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"hyb-a","segmentation":["which","is","better","canon","or","nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"hyb-a","segmentation":["what","are","the","best","dish","detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"hyb-a","segmentation":["what","are","the","best","cities","to","live","in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"hyb-a","segmentation":["what is the","longest river","in","the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"hyb-a","segmentation":["which is healthiest coffee","green tea","or","black tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"hyb-a","segmentation":["what are the advantages and disadvantages of php over python and","vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"hyb-a","segmentation":["why is linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"hyb-a","segmentation":["what","is","better","to","use","a","brush","or","a","sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"hyb-a","segmentation":["which","is","better","linux","or","microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"hyb-a","segmentation":["which","is","better","pepsi","or","coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"hyb-a","segmentation":["what is better","google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"hyb-a","segmentation":["which","one","is","better","netflix","or","blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"hyb-a","segmentation":["which browser is better","internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"hyb-a","segmentation":["which","is","a","better","vehicle","bmw","or","audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"hyb-a","segmentation":["which one is better an","electric stove","or a","gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"hyb-a","segmentation":["what","planes","are","best","boeing","or","airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"hyb-a","segmentation":["which is better disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"hyb-a","segmentation":["should i","buy an xbox or a playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"hyb-a","segmentation":["which","has","more","caffeine","coffee","or","tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"hyb-a","segmentation":["which","is","better","led","or","lcd","reception","displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"hyb-a","segmentation":["what","is","better","asp","or","php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"hyb-a","segmentation":["what is better for","the environment","a real or a","fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"hyb-a","segmentation":["do","you","prefer","tampons","or","pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"hyb-a","segmentation":["what","ide","is","better","for","java","netbeans","or","eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"hyb-a","segmentation":["is opengl","better than","direct3d in terms of portability to different platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"hyb-a","segmentation":["what","are","the","differences","between","mysql","and","postgresql","in","performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"hyb-a","segmentation":["is","java code","more readable than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"hyb-a","segmentation":["which","operating system","has better performance","windows 7","or","windows 8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"hyb-a","segmentation":["which smartphone","has a","better","battery life","xperia or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"hyb-a","segmentation":["which","four","wheel","truck","is","better","ford","or","toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"hyb-a","segmentation":["should i","prefer a","leica camera","over nikon for portrait photographs"]}
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"wiki-based","segmentation":["which company","has a","larger capitalization","apple","or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"wiki-based","segmentation":["which laptop","has a","better durability","hp or","dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"wiki-based","segmentation":["which beverage","has more","calories per","glass","beer or","cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"wiki-based","segmentation":["is admission","rate in","stanford","higher than","that of","mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"wiki-based","segmentation":["is pasta","healthier than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"wiki-based","segmentation":["which city","is more","expensive","to live","in san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"wiki-based","segmentation":["whose salary","is higher","basketball or","soccer players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"wiki-based","segmentation":["how to sleep","better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"wiki-based","segmentation":["should i","buy an","lcd tv","or a","plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"wiki-based","segmentation":["train or","plane which","is the","better choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"wiki-based","segmentation":["what","is the","highest mountain","on earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"wiki-based","segmentation":["should one","prefer","chinese medicine","or western","medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"wiki-based","segmentation":["what are","the best","washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"wiki-based","segmentation":["should i","buy or","rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"wiki-based","segmentation":["do you","prefer cats","or dogs","and why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"wiki-based","segmentation":["what","is the","better","way to","grill outdoors","gas or","charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"wiki-based","segmentation":["which is","better mac","or pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"wiki-based","segmentation":["what","is the","difference between","sex","and love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"wiki-based","segmentation":["which is","better","a laptop","or a","desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"wiki-based","segmentation":["which is","better","canon or","nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"wiki-based","segmentation":["what are","the best","dish detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"wiki-based","segmentation":["what are","the best","cities","to live","in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"wiki-based","segmentation":["what","is the","longest","river in","the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"wiki-based","segmentation":["which is","healthiest","coffee","green tea","or black","tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"wiki-based","segmentation":["what","are the","advantages and","disadvantages of","php over","python and","vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"wiki-based","segmentation":["why is","linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"wiki-based","segmentation":["what is","better","to use","a brush","or a","sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"wiki-based","segmentation":["which is","better linux","or microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"wiki-based","segmentation":["which is","better pepsi","or coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"wiki-based","segmentation":["what is","better","google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"wiki-based","segmentation":["which","one is","better","netflix","or blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"wiki-based","segmentation":["which browser","is better","internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"wiki-based","segmentation":["which","is a","better vehicle","bmw or","audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"wiki-based","segmentation":["which","one is","better","an electric","stove","or a","gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"wiki-based","segmentation":["what planes","are best","boeing or","airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"wiki-based","segmentation":["which is","better","disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"wiki-based","segmentation":["should i","buy an","xbox","or a","playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"wiki-based","segmentation":["which has","more caffeine","coffee or","tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"wiki-based","segmentation":["which is","better led","or lcd","reception displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"wiki-based","segmentation":["what is","better asp","or php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"wiki-based","segmentation":["what is","better for","the environment","a real","or a","fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"wiki-based","segmentation":["do you","prefer tampons","or pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"wiki-based","segmentation":["what ide","is better","for java","netbeans","or eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"wiki-based","segmentation":["is opengl","better than","direct3d in","terms of","portability","to different","platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"wiki-based","segmentation":["what","are the","differences between","mysql and","postgresql","in performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"wiki-based","segmentation":["is","java code","more readable","than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"wiki-based","segmentation":["which","operating system","has","better performance","windows 7","or windows","8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"wiki-based","segmentation":["which smartphone","has a","better","battery life","xperia","or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"wiki-based","segmentation":["which","four wheel","truck","is better","ford or","toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"wiki-based","segmentation":["should i","prefer a","leica camera","over","nikon for","portrait photographs"]}
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"wt-baseline","segmentation":["which company","has a","larger capitalization apple or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"wt-baseline","segmentation":["which laptop","has a","better durability hp or dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"wt-baseline","segmentation":["which","beverage","has","more","calories","per","glass","beer","or","cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"wt-baseline","segmentation":["is","admission","rate","in","stanford","higher","than","that","of","mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"wt-baseline","segmentation":["is","pasta","healthier","than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"wt-baseline","segmentation":["which city is more expensive to","live in san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"wt-baseline","segmentation":["whose","salary","is","higher","basketball","or","soccer","players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"wt-baseline","segmentation":["how to sleep","better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"wt-baseline","segmentation":["should i","buy an","lcd tv","or a","plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"wt-baseline","segmentation":["train","or","plane","which","is","the","better","choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"wt-baseline","segmentation":["what is the","highest mountain","on earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"wt-baseline","segmentation":["should one prefer","chinese medicine","or","western medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"wt-baseline","segmentation":["what are the best","washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"wt-baseline","segmentation":["should i","buy or rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"wt-baseline","segmentation":["do","you","prefer","cats","or","dogs","and","why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"wt-baseline","segmentation":["what is the","better way","to grill outdoors gas or charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"wt-baseline","segmentation":["which","is","better","mac","or","pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"wt-baseline","segmentation":["what is","the difference","between sex and love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"wt-baseline","segmentation":["which","is","better","a","laptop","or","a","desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"wt-baseline","segmentation":["which","is","better","canon","or","nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"wt-baseline","segmentation":["what","are","the","best","dish","detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"wt-baseline","segmentation":["what","are","the","best","cities","to","live","in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"wt-baseline","segmentation":["what is the","longest river","in","the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"wt-baseline","segmentation":["which is healthiest coffee","green tea","or","black tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"wt-baseline","segmentation":["what are the advantages and disadvantages of php over python and","vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"wt-baseline","segmentation":["why is linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"wt-baseline","segmentation":["what","is","better","to","use","a","brush","or","a","sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"wt-baseline","segmentation":["which","is","better","linux","or","microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"wt-baseline","segmentation":["which","is","better","pepsi","or","coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"wt-baseline","segmentation":["what is better","google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"wt-baseline","segmentation":["which","one","is","better","netflix","or","blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"wt-baseline","segmentation":["which browser is better","internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"wt-baseline","segmentation":["which","is","a","better","vehicle","bmw","or","audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"wt-baseline","segmentation":["which one is better an","electric stove","or a","gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"wt-baseline","segmentation":["what","planes","are","best","boeing","or","airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"wt-baseline","segmentation":["which is better disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"wt-baseline","segmentation":["should i","buy an xbox or a playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"wt-baseline","segmentation":["which","has","more","caffeine","coffee","or","tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"wt-baseline","segmentation":["which","is","better","led","or","lcd","reception","displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"wt-baseline","segmentation":["what","is","better","asp","or","php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"wt-baseline","segmentation":["what is better for","the environment","a real or a","fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"wt-baseline","segmentation":["do","you","prefer","tampons","or","pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"wt-baseline","segmentation":["what","ide","is","better","for","java","netbeans","or","eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"wt-baseline","segmentation":["is opengl","better than","direct3d in terms of portability to different platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"wt-baseline","segmentation":["what","are","the","differences","between","mysql","and","postgresql","in","performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"wt-baseline","segmentation":["is","java code","more readable than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"wt-baseline","segmentation":["which","operating system","has better performance","windows 7","or","windows 8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"wt-baseline","segmentation":["which smartphone","has a","better","battery life","xperia or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"wt-baseline","segmentation":["which","four","wheel","truck","is","better","ford","or","toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"wt-baseline","segmentation":["should i","prefer a","leica camera","over nikon for portrait photographs"]}
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"naive","segmentation":["which company","has a","larger capitalization","apple","or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"naive","segmentation":["which laptop","has a","better durability","hp or","dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"naive","segmentation":["which beverage","has more","calories per","glass","beer or","cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"naive","segmentation":["is admission","rate in","stanford","higher than","that of","mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"naive","segmentation":["is pasta","healthier than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"naive","segmentation":["which city","is more","expensive","to live in","san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"naive","segmentation":["whose salary","is higher","basketball or","soccer players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"naive","segmentation":["how to","sleep better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"naive","segmentation":["should i","buy an","lcd tv","or a","plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"naive","segmentation":["train","or","plane","which","is the","better","choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"naive","segmentation":["what","is the","highest","mountain","on","earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"naive","segmentation":["should one","prefer","chinese medicine","or western","medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"naive","segmentation":["what are","the best","washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"naive","segmentation":["should i buy or rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"naive","segmentation":["do you","prefer","cats or dogs","and why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"naive","segmentation":["what","is the","better way to grill outdoors gas or charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"naive","segmentation":["which is","better","mac or pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"naive","segmentation":["what is the difference between","sex","and","love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"naive","segmentation":["which is","better","a laptop","or a","desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"naive","segmentation":["which is","better","canon or","nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"naive","segmentation":["what are","the best","dish detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"naive","segmentation":["what are","the best","cities","to live in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"naive","segmentation":["what","is the","longest river in the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"naive","segmentation":["which is","healthiest","coffee","green tea","or black","tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"naive","segmentation":["what are","the advantages and disadvantages of","php over","python","and vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"naive","segmentation":["why is","linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"naive","segmentation":["what is","better","to use","a brush","or a","sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"naive","segmentation":["which is","better linux","or microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"naive","segmentation":["which is","better","pepsi or coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"naive","segmentation":["what is","better","google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"naive","segmentation":["which","one is","better","netflix or blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"naive","segmentation":["which browser","is better","internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"naive","segmentation":["which","is a","better vehicle bmw or audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"naive","segmentation":["which","one is","better","an electric","stove","or a","gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"naive","segmentation":["what planes","are best","boeing or airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"naive","segmentation":["which is","better","disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"naive","segmentation":["should i","buy an","xbox","or a","playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"naive","segmentation":["which has","more caffeine","coffee or tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"naive","segmentation":["which is","better led","or lcd","reception displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"naive","segmentation":["what is","better asp","or php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"naive","segmentation":["what","is","better","for the","environment a real or a fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"naive","segmentation":["do you","prefer tampons","or pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"naive","segmentation":["what ide","is better","for java","netbeans","or eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"naive","segmentation":["is opengl","better than","direct3d","in terms of","portability","to different","platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"naive","segmentation":["what","are the","differences between","mysql and","postgresql","in performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"naive","segmentation":["is","java code","more readable","than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"naive","segmentation":["which","operating system","has","better performance","windows 7","or windows","8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"naive","segmentation":["which smartphone","has a","better","battery life","xperia","or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"naive","segmentation":["which","four wheel","truck","is better","ford or","toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"naive","segmentation":["should i","prefer a","leica camera","over","nikon for","portrait photographs"]}
+{"qid":"44","originalQuery":"Which company has a larger capitalization: Apple or Microsoft?","segmentationApproach":"hyb-i","segmentation":["which company","has a","larger capitalization","apple","or microsoft"]}
+{"qid":"45","originalQuery":"Which laptop has a better durability: HP or Dell?","segmentationApproach":"hyb-i","segmentation":["which laptop","has a","better durability","hp or","dell"]}
+{"qid":"46","originalQuery":"Which beverage has more calories per glass: beer or cider?","segmentationApproach":"hyb-i","segmentation":["which beverage","has more","calories per","glass","beer or","cider"]}
+{"qid":"47","originalQuery":"Is admission rate in Stanford higher than that of MIT?","segmentationApproach":"hyb-i","segmentation":["is admission","rate in","stanford","higher than","that of","mit"]}
+{"qid":"48","originalQuery":"Is pasta healthier than pizza?","segmentationApproach":"hyb-i","segmentation":["is pasta","healthier than","pizza"]}
+{"qid":"49","originalQuery":"Which city is more expensive to live in: San Francisco or New York?","segmentationApproach":"hyb-i","segmentation":["which city","is more","expensive","to live","in san francisco","or","new york"]}
+{"qid":"50","originalQuery":"Whose salary is higher: basketball or soccer players?","segmentationApproach":"hyb-i","segmentation":["whose salary","is higher","basketball or","soccer players"]}
+{"qid":"10","originalQuery":"How to sleep better?","segmentationApproach":"hyb-i","segmentation":["how to sleep","better"]}
+{"qid":"11","originalQuery":"Should I buy an LCD TV or a plasma TV?","segmentationApproach":"hyb-i","segmentation":["should i","buy an","lcd tv","or a","plasma tv"]}
+{"qid":"12","originalQuery":"Train or plane? Which is the better choice?","segmentationApproach":"hyb-i","segmentation":["train or","plane which","is the","better choice"]}
+{"qid":"13","originalQuery":"What is the highest mountain on Earth?","segmentationApproach":"hyb-i","segmentation":["what","is the","highest mountain","on earth"]}
+{"qid":"14","originalQuery":"Should one prefer Chinese medicine or Western medicine?","segmentationApproach":"hyb-i","segmentation":["should one","prefer","chinese medicine","or western","medicine"]}
+{"qid":"15","originalQuery":"What are the best washing machine brands?","segmentationApproach":"hyb-i","segmentation":["what are","the best","washing machine","brands"]}
+{"qid":"16","originalQuery":"Should I buy or rent?","segmentationApproach":"hyb-i","segmentation":["should i","buy or","rent"]}
+{"qid":"17","originalQuery":"Do you prefer cats or dogs, and why?","segmentationApproach":"hyb-i","segmentation":["do you","prefer cats","or dogs","and why"]}
+{"qid":"18","originalQuery":"What is the better way to grill outdoors: gas or charcoal?","segmentationApproach":"hyb-i","segmentation":["what","is the","better","way to","grill outdoors","gas or","charcoal"]}
+{"qid":"19","originalQuery":"Which is better, MAC or PC?","segmentationApproach":"hyb-i","segmentation":["which is","better mac","or pc"]}
+{"qid":"1","originalQuery":"What is the difference between sex and love?","segmentationApproach":"hyb-i","segmentation":["what","is the","difference between","sex","and love"]}
+{"qid":"2","originalQuery":"Which is better, a laptop or a desktop?","segmentationApproach":"hyb-i","segmentation":["which is","better","a laptop","or a","desktop"]}
+{"qid":"3","originalQuery":"Which is better, Canon or Nikon?","segmentationApproach":"hyb-i","segmentation":["which is","better","canon or","nikon"]}
+{"qid":"4","originalQuery":"What are the best dish detergents?","segmentationApproach":"hyb-i","segmentation":["what are","the best","dish detergents"]}
+{"qid":"5","originalQuery":"What are the best cities to live in?","segmentationApproach":"hyb-i","segmentation":["what are","the best","cities","to live","in"]}
+{"qid":"6","originalQuery":"What is the longest river in the U.S.?","segmentationApproach":"hyb-i","segmentation":["what","is the","longest","river in","the u.s."]}
+{"qid":"7","originalQuery":"Which is healthiest: coffee, green tea or black tea and why?","segmentationApproach":"hyb-i","segmentation":["which is","healthiest","coffee","green tea","or black","tea","and why"]}
+{"qid":"8","originalQuery":"What are the advantages and disadvantages of PHP over Python and vice versa?","segmentationApproach":"hyb-i","segmentation":["what","are the","advantages and","disadvantages of","php over","python and","vice versa"]}
+{"qid":"9","originalQuery":"Why is Linux better than Windows?","segmentationApproach":"hyb-i","segmentation":["why is","linux","better than","windows"]}
+{"qid":"20","originalQuery":"What is better: to use a brush or a sponge?","segmentationApproach":"hyb-i","segmentation":["what is","better","to use","a brush","or a","sponge"]}
+{"qid":"21","originalQuery":"Which is better, Linux or Microsoft?","segmentationApproach":"hyb-i","segmentation":["which is","better linux","or microsoft"]}
+{"qid":"22","originalQuery":"Which is better, Pepsi or Coke?","segmentationApproach":"hyb-i","segmentation":["which is","better pepsi","or coke"]}
+{"qid":"23","originalQuery":"What is better, Google search or Yahoo search?","segmentationApproach":"hyb-i","segmentation":["what is","better","google search","or","yahoo search"]}
+{"qid":"24","originalQuery":"Which one is better, Netflix or Blockbuster?","segmentationApproach":"hyb-i","segmentation":["which","one is","better","netflix","or blockbuster"]}
+{"qid":"25","originalQuery":"Which browser is better, Internet Explorer or Firefox?","segmentationApproach":"hyb-i","segmentation":["which browser","is better","internet explorer","or firefox"]}
+{"qid":"26","originalQuery":"Which is a better vehicle: BMW or Audi?","segmentationApproach":"hyb-i","segmentation":["which","is a","better vehicle","bmw or","audi"]}
+{"qid":"27","originalQuery":"Which one is better, an electric stove or a gas stove?","segmentationApproach":"hyb-i","segmentation":["which","one is","better","an electric","stove","or a","gas stove"]}
+{"qid":"28","originalQuery":"What planes are best, Boeing or Airbus?","segmentationApproach":"hyb-i","segmentation":["what planes","are best","boeing or","airbus"]}
+{"qid":"29","originalQuery":"Which is better, Disneyland or Disney World?","segmentationApproach":"hyb-i","segmentation":["which is","better","disneyland or","disney world"]}
+{"qid":"30","originalQuery":"Should I buy an Xbox or a PlayStation?","segmentationApproach":"hyb-i","segmentation":["should i","buy an","xbox","or a","playstation"]}
+{"qid":"31","originalQuery":"Which has more caffeine, coffee or tea?","segmentationApproach":"hyb-i","segmentation":["which has","more caffeine","coffee or","tea"]}
+{"qid":"32","originalQuery":"Which is better, LED or LCD Reception Displays?","segmentationApproach":"hyb-i","segmentation":["which is","better led","or lcd","reception displays"]}
+{"qid":"33","originalQuery":"What is better: ASP or PHP?","segmentationApproach":"hyb-i","segmentation":["what is","better asp","or php"]}
+{"qid":"34","originalQuery":"What is better for the environment, a real or a fake Christmas tree?","segmentationApproach":"hyb-i","segmentation":["what is","better for","the environment","a real","or a","fake christmas tree"]}
+{"qid":"35","originalQuery":"Do you prefer tampons or pads?","segmentationApproach":"hyb-i","segmentation":["do you","prefer tampons","or pads"]}
+{"qid":"36","originalQuery":"What IDE is better for Java: NetBeans or Eclipse?","segmentationApproach":"hyb-i","segmentation":["what ide","is better","for java","netbeans","or eclipse"]}
+{"qid":"37","originalQuery":"Is OpenGL better than Direct3D in terms of portability to different platforms?","segmentationApproach":"hyb-i","segmentation":["is opengl","better than","direct3d in","terms of","portability","to different","platforms"]}
+{"qid":"38","originalQuery":"What are the differences between MySQL and PostgreSQL in performance?","segmentationApproach":"hyb-i","segmentation":["what","are the","differences between","mysql and","postgresql","in performance"]}
+{"qid":"39","originalQuery":"Is Java code more readable than code written in Scala?","segmentationApproach":"hyb-i","segmentation":["is","java code","more readable","than code","written in","scala"]}
+{"qid":"40","originalQuery":"Which operating system has better performance: Windows 7 or Windows 8?","segmentationApproach":"hyb-i","segmentation":["which","operating system","has","better performance","windows 7","or windows","8"]}
+{"qid":"41","originalQuery":"Which smartphone has a better battery life: Xperia or iPhone?","segmentationApproach":"hyb-i","segmentation":["which smartphone","has a","better","battery life","xperia","or iphone"]}
+{"qid":"42","originalQuery":"Which four wheel truck is better: Ford or Toyota?","segmentationApproach":"hyb-i","segmentation":["which","four wheel","truck","is better","ford or","toyota"]}
+{"qid":"43","originalQuery":"Should I prefer a Leica camera over Nikon for portrait photographs?","segmentationApproach":"hyb-i","segmentation":["should i","prefer a","leica camera","over","nikon for","portrait photographs"]}
