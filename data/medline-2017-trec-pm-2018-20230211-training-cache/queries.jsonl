@@ -1,0 +1,350 @@
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["thyroid cancer","braf 40-year-old female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["adenoid cystic carcinoma","kit 58-year-old female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","tp53","loss of function","72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma tumor cells","with 50 membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma tumor cells","negative for pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf v600e","64-year-old male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf v600e","pten","loss of function","57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf v600e","nras q61r 67-year-old male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","high tumor","mutational burden","86-year-old female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","extensive","tumor infiltrating lymphocytes","49-year-old male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","no tumor","infiltrating lymphocytes","74-year-old female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma pten","loss of function","68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","apc","loss of function","47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["melanoma","high serum ldh","levels 69-year-old female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["colorectal cancer","nras 49-year-old male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["esophageal cancer","egfr 67-year-old male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["head and neck","squamous cell carcinoma","cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["gastric cancer","egfr 60-year-old female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["lung cancer","erbb2 49-year-old female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["non-small cell carcinoma","met 68-year-old male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["anaplastic large cell lymphoma","alk 18-year-old male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["papillary thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"wt-snp-baseline","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"wt-snp-baseline","segmentation":["basal cell carcinoma","ptch1 56-year-old female"]}
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"hyb-b","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"hyb-b","segmentation":["thyroid","cancer","braf","40-year-old","female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"hyb-b","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"hyb-b","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"hyb-b","segmentation":["adenoid","cystic","carcinoma","kit","58-year-old","female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"hyb-b","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"hyb-b","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma tp53","loss of function","72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","tumor cells","with 50 membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","tumor cells","negative for pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","braf","v600e","64-year-old","male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma braf v600e pten","loss of function","57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","braf","v600e","nras","q61r","67-year-old","male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","high","tumor","mutational","burden","86-year-old","female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma","extensive","tumor","infiltrating","lymphocytes","49-year-old","male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","no","tumor","infiltrating","lymphocytes","74-year-old","female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma pten","loss of function","68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"hyb-b","segmentation":["melanoma apc","loss of function","47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"hyb-b","segmentation":["melanoma","high","serum","ldh","levels","69-year-old","female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"hyb-b","segmentation":["colorectal","cancer","nras","49-year-old","male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"hyb-b","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"hyb-b","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"hyb-b","segmentation":["esophageal","cancer","egfr","67-year-old","male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"hyb-b","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"hyb-b","segmentation":["head and neck","squamous cell carcinoma","cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"hyb-b","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"hyb-b","segmentation":["gastric","cancer","egfr","60-year-old","female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"hyb-b","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"hyb-b","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"hyb-b","segmentation":["lung","cancer","erbb2","49-year-old","female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"hyb-b","segmentation":["non-small","cell","carcinoma","met","68-year-old","male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"hyb-b","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"hyb-b","segmentation":["anaplastic","large","cell","lymphoma","alk","18-year-old","male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"hyb-b","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"hyb-b","segmentation":["papillary thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"hyb-b","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"hyb-b","segmentation":["basal cell carcinoma","ptch1 56-year-old female"]}
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"hyb-a","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"hyb-a","segmentation":["thyroid cancer","braf 40-year-old female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"hyb-a","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"hyb-a","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"hyb-a","segmentation":["adenoid cystic carcinoma","kit 58-year-old female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"hyb-a","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"hyb-a","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma tp53","loss of function","72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","tumor cells","with 50 membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","tumor cells","negative for pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","braf","v600e","64-year-old","male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma braf v600e pten","loss of function","57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","braf","v600e","nras","q61r","67-year-old","male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","high tumor","mutational burden","86-year-old female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma","extensive","tumor","infiltrating","lymphocytes","49-year-old","male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","no tumor","infiltrating lymphocytes","74-year-old female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma pten","loss of function","68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"hyb-a","segmentation":["melanoma apc","loss of function","47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"hyb-a","segmentation":["melanoma","high serum","ldh levels","69-year-old female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"hyb-a","segmentation":["colorectal cancer","nras 49-year-old male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"hyb-a","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"hyb-a","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"hyb-a","segmentation":["esophageal cancer","egfr 67-year-old male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"hyb-a","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"hyb-a","segmentation":["head and neck","squamous cell carcinoma","cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"hyb-a","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"hyb-a","segmentation":["gastric cancer","egfr 60-year-old female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"hyb-a","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"hyb-a","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"hyb-a","segmentation":["lung cancer","erbb2 49-year-old female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"hyb-a","segmentation":["non-small","cell","carcinoma","met","68-year-old","male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"hyb-a","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"hyb-a","segmentation":["anaplastic large cell lymphoma","alk 18-year-old male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"hyb-a","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"hyb-a","segmentation":["papillary thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"hyb-a","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"hyb-a","segmentation":["basal cell carcinoma","ptch1 56-year-old female"]}
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"wiki-based","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"wiki-based","segmentation":["thyroid cancer","braf 40-year-old female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"wiki-based","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"wiki-based","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"wiki-based","segmentation":["adenoid cystic carcinoma","kit 58-year-old female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"wiki-based","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"wiki-based","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","tp53","loss of function","72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","tumor cells","with 50","membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","tumor cells","negative for","pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf v600e","64-year-old male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf v600e","pten","loss of function","57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf v600e","nras q61r 67-year-old male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","high tumor","mutational burden","86-year-old female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","extensive tumor","infiltrating lymphocytes","49-year-old male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","no tumor","infiltrating lymphocytes","74-year-old female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","pten","loss of function","68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"wiki-based","segmentation":["melanoma","apc","loss of function","47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"wiki-based","segmentation":["melanoma","high serum","ldh levels","69-year-old female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"wiki-based","segmentation":["colorectal cancer","nras 49-year-old male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"wiki-based","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"wiki-based","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"wiki-based","segmentation":["esophageal cancer","egfr 67-year-old male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"wiki-based","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"wiki-based","segmentation":["head and neck","squamous cell carcinoma","cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"wiki-based","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"wiki-based","segmentation":["gastric cancer","egfr 60-year-old female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"wiki-based","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"wiki-based","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"wiki-based","segmentation":["lung cancer","erbb2 49-year-old female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"wiki-based","segmentation":["non-small","cell carcinoma","met 68-year-old male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"wiki-based","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"wiki-based","segmentation":["anaplastic large cell lymphoma","alk 18-year-old male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"wiki-based","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"wiki-based","segmentation":["papillary thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"wiki-based","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"wiki-based","segmentation":["basal cell carcinoma","ptch1 56-year-old female"]}
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"wt-baseline","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"wt-baseline","segmentation":["thyroid cancer","braf 40-year-old female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"wt-baseline","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"wt-baseline","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"wt-baseline","segmentation":["adenoid cystic carcinoma","kit 58-year-old female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"wt-baseline","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"wt-baseline","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma tp53","loss of function","72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","tumor cells","with 50 membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","tumor cells","negative for pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","braf","v600e","64-year-old","male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma braf v600e pten","loss of function","57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","braf","v600e","nras","q61r","67-year-old","male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","high","tumor","mutational","burden","86-year-old","female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma","extensive","tumor","infiltrating","lymphocytes","49-year-old","male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","no","tumor","infiltrating","lymphocytes","74-year-old","female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma pten","loss of function","68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"wt-baseline","segmentation":["melanoma apc","loss of function","47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"wt-baseline","segmentation":["melanoma","high","serum","ldh","levels","69-year-old","female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"wt-baseline","segmentation":["colorectal cancer","nras 49-year-old male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"wt-baseline","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"wt-baseline","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"wt-baseline","segmentation":["esophageal cancer","egfr 67-year-old male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"wt-baseline","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"wt-baseline","segmentation":["head and neck","squamous cell carcinoma","cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"wt-baseline","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"wt-baseline","segmentation":["gastric cancer","egfr 60-year-old female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"wt-baseline","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"wt-baseline","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"wt-baseline","segmentation":["lung cancer","erbb2 49-year-old female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"wt-baseline","segmentation":["non-small","cell","carcinoma","met","68-year-old","male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"wt-baseline","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"wt-baseline","segmentation":["anaplastic large cell lymphoma","alk 18-year-old male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"wt-baseline","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"wt-baseline","segmentation":["papillary thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"wt-baseline","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"wt-baseline","segmentation":["basal cell carcinoma","ptch1 56-year-old female"]}
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"naive","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"naive","segmentation":["thyroid cancer","braf 40-year-old female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"naive","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"naive","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"naive","segmentation":["adenoid cystic carcinoma","kit 58-year-old female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"naive","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"naive","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"naive","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"naive","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"naive","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"naive","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"naive","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"naive","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"naive","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"naive","segmentation":["melanoma","tp53","loss of","function 72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"naive","segmentation":["melanoma","tumor cells","with 50","membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"naive","segmentation":["melanoma","tumor cells","negative for","pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf v600e","64-year-old male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf v600e","pten","loss of","function 57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf v600e","nras q61r 67-year-old male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"naive","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"naive","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"naive","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"naive","segmentation":["melanoma","high tumor","mutational burden","86-year-old female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"naive","segmentation":["melanoma","extensive","tumor infiltrating lymphocytes","49-year-old male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"naive","segmentation":["melanoma","no tumor","infiltrating lymphocytes","74-year-old female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"naive","segmentation":["melanoma","pten","loss of","function 68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"naive","segmentation":["melanoma","apc","loss of","function 47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"naive","segmentation":["melanoma","high serum","ldh levels","69-year-old female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"naive","segmentation":["colorectal cancer","nras 49-year-old male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"naive","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"naive","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"naive","segmentation":["esophageal cancer","egfr 67-year-old male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"naive","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"naive","segmentation":["head and neck squamous cell","carcinoma cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"naive","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"naive","segmentation":["gastric cancer","egfr 60-year-old female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"naive","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"naive","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"naive","segmentation":["lung cancer","erbb2 49-year-old female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"naive","segmentation":["non-small","cell carcinoma","met 68-year-old male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"naive","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"naive","segmentation":["anaplastic large cell lymphoma","alk 18-year-old male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"naive","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"naive","segmentation":["papillary","thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"naive","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"naive","segmentation":["basal","cell carcinoma","ptch1 56-year-old female"]}
+{"qid":"44","originalQuery":"glioma BRAF 82-year-old male","segmentationApproach":"hyb-i","segmentation":["glioma","braf","82-year-old","male"]}
+{"qid":"45","originalQuery":"thyroid cancer BRAF 40-year-old female","segmentationApproach":"hyb-i","segmentation":["thyroid","cancer","braf","40-year-old","female"]}
+{"qid":"46","originalQuery":"lung cancer FGFR1 57-year-old male","segmentationApproach":"hyb-i","segmentation":["lung cancer","fgfr1 57-year-old male"]}
+{"qid":"47","originalQuery":"prostate cancer PTEN 70-year-old male","segmentationApproach":"hyb-i","segmentation":["prostate cancer","pten 70-year-old male"]}
+{"qid":"48","originalQuery":"adenoid cystic carcinoma KIT 58-year-old female","segmentationApproach":"hyb-i","segmentation":["adenoid","cystic","carcinoma","kit","58-year-old","female"]}
+{"qid":"49","originalQuery":"acute myeloid leukemia IDH1 1-year-old male","segmentationApproach":"hyb-i","segmentation":["acute myeloid leukemia","idh1 1-year-old male"]}
+{"qid":"50","originalQuery":"acute myeloid leukemia FLT3 13-year-old male","segmentationApproach":"hyb-i","segmentation":["acute myeloid leukemia","flt3 13-year-old male"]}
+{"qid":"10","originalQuery":"melanoma KIT (L576P) 65-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","kit","l576p","65-year-old","female"]}
+{"qid":"11","originalQuery":"melanoma KIT (L576P), KIT amplification 56-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","kit","l576p","kit","amplification","56-year-old","female"]}
+{"qid":"12","originalQuery":"melanoma KIT (K642E) 62-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","kit","k642e","62-year-old","female"]}
+{"qid":"13","originalQuery":"melanoma KIT (N822Y) 39-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","kit","n822y","39-year-old","female"]}
+{"qid":"14","originalQuery":"melanoma KIT amplification 66-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","kit","amplification","66-year-old","female"]}
+{"qid":"15","originalQuery":"melanoma NF1 truncation 70-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","nf1","truncation","70-year-old","male"]}
+{"qid":"16","originalQuery":"melanoma NTRK1 rearrangement 60-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","ntrk1","rearrangement","60-year-old","male"]}
+{"qid":"17","originalQuery":"melanoma TP53 loss of function 72-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","tp53","loss of function","72-year-old male"]}
+{"qid":"18","originalQuery":"melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","tumor cells","with 50","membranous pd-l1 expression 48-year-old female"]}
+{"qid":"19","originalQuery":"melanoma tumor cells negative for PD-L1 expression 73-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","tumor cells","negative for","pd-l1 expression 73-year-old male"]}
+{"qid":"1","originalQuery":"melanoma BRAF (V600E) 64-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf v600e","64-year-old male"]}
+{"qid":"2","originalQuery":"melanoma BRAF (V600K) 54-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf","v600k","54-year-old","male"]}
+{"qid":"3","originalQuery":"melanoma BRAF (V600R) 80-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf","v600r","80-year-old","male"]}
+{"qid":"4","originalQuery":"melanoma BRAF (K601E) 38-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf","k601e","38-year-old","male"]}
+{"qid":"5","originalQuery":"melanoma BRAF (V600E), PTEN loss of function 57-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf v600e","pten","loss of function","57-year-old male"]}
+{"qid":"6","originalQuery":"melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf v600e","nras q61r 67-year-old male"]}
+{"qid":"7","originalQuery":"melanoma BRAF amplification 61-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","braf","amplification","61-year-old","male"]}
+{"qid":"8","originalQuery":"melanoma NRAS (Q61R) 63-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","nras","q61r","63-year-old","female"]}
+{"qid":"9","originalQuery":"melanoma NRAS (Q61L) 34-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","nras","q61l","34-year-old","female"]}
+{"qid":"20","originalQuery":"melanoma high tumor mutational burden 86-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","high","tumor","mutational","burden","86-year-old","female"]}
+{"qid":"21","originalQuery":"melanoma extensive tumor infiltrating lymphocytes 49-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","extensive tumor","infiltrating lymphocytes","49-year-old male"]}
+{"qid":"22","originalQuery":"melanoma no tumor infiltrating lymphocytes 74-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","no","tumor","infiltrating","lymphocytes","74-year-old","female"]}
+{"qid":"23","originalQuery":"melanoma PTEN loss of function 68-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","pten","loss of function","68-year-old male"]}
+{"qid":"24","originalQuery":"melanoma APC loss of function 47-year-old male","segmentationApproach":"hyb-i","segmentation":["melanoma","apc","loss of function","47-year-old male"]}
+{"qid":"25","originalQuery":"melanoma high serum LDH levels 69-year-old female","segmentationApproach":"hyb-i","segmentation":["melanoma","high","serum","ldh","levels","69-year-old","female"]}
+{"qid":"26","originalQuery":"colorectal cancer NRAS 49-year-old male","segmentationApproach":"hyb-i","segmentation":["colorectal","cancer","nras","49-year-old","male"]}
+{"qid":"27","originalQuery":"medullary thyroid carcinoma RET 45-year-old female","segmentationApproach":"hyb-i","segmentation":["medullary thyroid carcinoma","ret 45-year-old female"]}
+{"qid":"28","originalQuery":"neuroblastoma ALK 4-year-old female","segmentationApproach":"hyb-i","segmentation":["neuroblastoma","alk","4-year-old","female"]}
+{"qid":"29","originalQuery":"esophageal cancer EGFR 67-year-old male","segmentationApproach":"hyb-i","segmentation":["esophageal","cancer","egfr","67-year-old","male"]}
+{"qid":"30","originalQuery":"lung cancer ROS1 71-year-old female","segmentationApproach":"hyb-i","segmentation":["lung cancer","ros1 71-year-old female"]}
+{"qid":"31","originalQuery":"head and neck squamous cell carcinoma CDKN2A 64-year-old male","segmentationApproach":"hyb-i","segmentation":["head and neck","squamous cell carcinoma","cdkn2a 64-year-old male"]}
+{"qid":"32","originalQuery":"leukemia ABL1 4-year-old female","segmentationApproach":"hyb-i","segmentation":["leukemia","abl1","4-year-old","female"]}
+{"qid":"33","originalQuery":"gastric cancer EGFR 60-year-old female","segmentationApproach":"hyb-i","segmentation":["gastric","cancer","egfr","60-year-old","female"]}
+{"qid":"34","originalQuery":"sarcoma MDM2 78-year-old female","segmentationApproach":"hyb-i","segmentation":["sarcoma","mdm2","78-year-old","female"]}
+{"qid":"35","originalQuery":"breast cancer CDKN2A 73-year-old female","segmentationApproach":"hyb-i","segmentation":["breast cancer","cdkn2a 73-year-old female"]}
+{"qid":"36","originalQuery":"lung cancer ERBB2 49-year-old female","segmentationApproach":"hyb-i","segmentation":["lung","cancer","erbb2","49-year-old","female"]}
+{"qid":"37","originalQuery":"non-small cell carcinoma MET 68-year-old male","segmentationApproach":"hyb-i","segmentation":["non-small","cell carcinoma","met 68-year-old male"]}
+{"qid":"38","originalQuery":"cholangiocarcinoma IDH1 50-year-old male","segmentationApproach":"hyb-i","segmentation":["cholangiocarcinoma","idh1","50-year-old","male"]}
+{"qid":"39","originalQuery":"anaplastic large cell lymphoma ALK 18-year-old male","segmentationApproach":"hyb-i","segmentation":["anaplastic","large","cell","lymphoma","alk","18-year-old","male"]}
+{"qid":"40","originalQuery":"breast cancer ERBB2 56-year-old female","segmentationApproach":"hyb-i","segmentation":["breast cancer","erbb2 56-year-old female"]}
+{"qid":"41","originalQuery":"papillary thyroid carcinoma NTRK1 46-year-old female","segmentationApproach":"hyb-i","segmentation":["papillary thyroid carcinoma","ntrk1 46-year-old female"]}
+{"qid":"42","originalQuery":"glioblastoma CDK6 84-year-old male","segmentationApproach":"hyb-i","segmentation":["glioblastoma","cdk6","84-year-old","male"]}
+{"qid":"43","originalQuery":"basal cell carcinoma PTCH1 56-year-old female","segmentationApproach":"hyb-i","segmentation":["basal cell carcinoma","ptch1 56-year-old female"]}
